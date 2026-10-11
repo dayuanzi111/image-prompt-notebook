@@ -20,13 +20,25 @@
 
 提示词来源：**X 作者 Larus Canus**；图片为本项目生成实验。原帖链接待补充。
 
+<a href="entries/002-ouyang-feng/README.md"><img src="entries/002-ouyang-feng/images/result.png" width="280" alt="欧阳锋蛤蟆功武侠浮世绘：白袍武者推掌，竹林与纵向题签" /></a>
+
+### [002 · 欧阳锋蛤蟆功 · 武侠浮世绘](entries/002-ouyang-feng/README.md)
+
+探索强透视掌势、白袍曲线与竹林背景，记录多色木版风格的动作和材质表现。
+
+`东方美学` `武侠人物` `木版插画` · **个人实验 / 已测试一次**
+
+提示词来源：**X 作者 Larus Canus**；图片为本项目生成实验。原帖链接待补充。
+
 ## 分类导航
 
 | 分类 | 内容 | 当前词条 |
 | --- | --- | --- |
-| 东方美学 | 古诗词、传统设色、东方意象 | [001](entries/001-chinese-poetry/README.md) |
+| 东方美学 | 古诗词、传统设色、东方意象 | [001](entries/001-chinese-poetry/README.md) / [002](entries/002-ouyang-feng/README.md) |
 | 装饰插画 | 细线、平面构成、纸本质感 | [001](entries/001-chinese-poetry/README.md) |
 | 海报排版 | 标题、文字层级、图文关系 | [001](entries/001-chinese-poetry/README.md) |
+| 武侠人物 | 招式构图、人物特征、动作透视 | [002](entries/002-ouyang-feng/README.md) |
+| 木版插画 | 雕版轮廓、套色、纸墨与材质 | [002](entries/002-ouyang-feng/README.md) |
 | 摄影人像 | 光线、镜头、人物与环境 | 待收录 |
 | 产品视觉 | 材质、布光、商业场景 | 待收录 |
 
@@ -44,6 +56,7 @@
 
 | 日期 | 更新 |
 | --- | --- |
+| 2026-10-11 | 加入欧阳锋蛤蟆功武侠浮世绘案例，标注 Larus Canus 来源并记录动作与材质表现。 |
 | 2026-10-11 | 建立词典结构、来源说明与统一模板；加入首个古诗词海报实验。 |
 
 ## 关于这个项目
