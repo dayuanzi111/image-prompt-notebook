@@ -1,2 +1,51 @@
-# image-prompt-notebook
-AI 图像提示词学习词典：收集优质提示词，记录作者出处、生成实验与可复用模板。
+# 图像提示词学习词典
+
+**Image Prompt Notebook · 收集灵感，验证写法，记录成长。**
+
+一本持续更新的 AI 图像生成学习笔记。收录有明确出处的提示词，结合实际生成结果，拆解构图、色彩与材质，并整理可复用模板。
+
+[浏览词条](entries/README.md) · [词条模板](templates/entry-template.md) · [学习笔记](notes/README.md) · [来源与使用说明](ATTRIBUTION.md)
+
+---
+
+## 精选实验
+
+<a href="entries/001-chinese-poetry/README.md"><img src="entries/001-chinese-poetry/images/result.png" width="280" alt="破阵子海报：蓝色山河、白帆扁舟、碎玉与古剑" /></a>
+
+### [001 · 新中式古诗词海报](entries/001-chinese-poetry/README.md)
+
+以辛弃疾《破阵子·掷地刘郎玉斗》为主题，探索蓝色设色、中文排版与诗意场景。
+
+`东方美学` `装饰插画` `海报排版` · **个人实验 / 已测试一次**
+
+## 分类导航
+
+| 分类 | 内容 | 当前词条 |
+| --- | --- | --- |
+| 东方美学 | 古诗词、传统设色、东方意象 | [001](entries/001-chinese-poetry/README.md) |
+| 装饰插画 | 细线、平面构成、纸本质感 | [001](entries/001-chinese-poetry/README.md) |
+| 海报排版 | 标题、文字层级、图文关系 | [001](entries/001-chinese-poetry/README.md) |
+| 摄影人像 | 光线、镜头、人物与环境 | 待收录 |
+| 产品视觉 | 材质、布光、商业场景 | 待收录 |
+
+一个词条可以属于多个分类。完整提示词与实验记录保存在详情页。
+
+## 如何使用
+
+1. 从效果图与分类选择词条。
+2. 阅读来源、测试条件及局限，再复制提示词。
+3. 替换模板中的主题变量，保存自己的结果与修改记录。
+
+生成结果会受模型、版本与上下文影响。本词典记录观察，不保证同一提示词每次得到相同效果。
+
+## 更新记录
+
+| 日期 | 更新 |
+| --- | --- |
+| 2026-10-11 | 建立词典结构、来源说明与统一模板；加入首个古诗词海报实验。 |
+
+## 关于这个项目
+
+由 [dayuanzi111](https://github.com/dayuanzi111) 整理，AI 协助编辑。第三方提示词、个人改写与生成实验分别标注。结构参考 [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)，本项目独立整理内容。
+
+提交建议请使用 [Issues](https://github.com/dayuanzi111/image-prompt-notebook/issues)。收录前请提供原作者、原帖链接与可公开使用的材料。
