@@ -4,11 +4,23 @@
 
 一本持续更新的 AI 图像生成学习笔记。收录有明确出处的提示词，结合实际生成结果，拆解构图、色彩与材质，并整理可复用模板。
 
-[浏览词条](entries/README.md) · [词条模板](templates/entry-template.md) · [学习笔记](notes/README.md) · [来源与使用说明](ATTRIBUTION.md)
+[浏览词条](entries/README.md) · [分类规则](categories/README.md) · [词条模板](templates/entry-template.md) · [学习笔记](notes/README.md) · [来源与使用说明](ATTRIBUTION.md)
 
 ---
 
-## 精选实验
+## 按类别浏览
+
+| 主分类 | 当前词条 |
+| --- | --- |
+| 海报与平面设计 | [001 · 新中式古诗词海报](entries/001-chinese-poetry/README.md) |
+| 插画与人物绘画 | [002 · 欧阳锋蛤蟆功](entries/002-ouyang-feng/README.md) |
+| 人物摄影 | [003 · 拯救银河系的眼神](entries/003-galaxy-saving-gaze/README.md) |
+| 风景与城市日常 | [004 · 生活中未曾注意的美](entries/004-unnoticed-everyday-beauty/README.md) |
+| 产品与商业视觉 | 待收录 |
+
+每条一个主分类，风格、题材与情绪另作标签。[查看完整分类索引](entries/README.md)。
+
+## 海报与平面设计
 
 <a href="entries/001-chinese-poetry/README.md"><img src="entries/001-chinese-poetry/images/result.png" width="280" alt="破阵子海报：蓝色山河、白帆扁舟、碎玉与古剑" /></a>
 
@@ -20,6 +32,8 @@
 
 提示词来源：**X 作者 Larus Canus**；图片为本项目生成实验。原帖链接待补充。
 
+## 插画与人物绘画
+
 <a href="entries/002-ouyang-feng/README.md"><img src="entries/002-ouyang-feng/images/result.png" width="280" alt="欧阳锋蛤蟆功武侠浮世绘：白袍武者推掌，竹林与纵向题签" /></a>
 
 ### [002 · 欧阳锋蛤蟆功 · 武侠浮世绘](entries/002-ouyang-feng/README.md)
@@ -29,6 +43,8 @@
 `东方美学` `武侠人物` `木版插画` · **个人实验 / 已测试一次**
 
 提示词来源：**X 作者 Larus Canus**；图片为本项目生成实验。原帖链接待补充。
+
+## 人物摄影
 
 <a href="entries/003-galaxy-saving-gaze/README.md"><img src="entries/003-galaxy-saving-gaze/images/result.png" width="280" alt="拯救银河系的眼神：女子仰望男子，冷灰绿双人近景照片" /></a>
 
@@ -40,19 +56,17 @@
 
 提示词来源：**X 作者 [lyshen（@lishishen7i）](https://x.com/lishishen7i)**；图片为本项目生成实验。原帖链接待补充。
 
-## 分类导航
+## 风景与城市日常
 
-| 分类 | 内容 | 当前词条 |
-| --- | --- | --- |
-| 东方美学 | 古诗词、传统设色、东方意象 | [001](entries/001-chinese-poetry/README.md) / [002](entries/002-ouyang-feng/README.md) |
-| 装饰插画 | 细线、平面构成、纸本质感 | [001](entries/001-chinese-poetry/README.md) |
-| 海报排版 | 标题、文字层级、图文关系 | [001](entries/001-chinese-poetry/README.md) |
-| 武侠人物 | 招式构图、人物特征、动作透视 | [002](entries/002-ouyang-feng/README.md) |
-| 木版插画 | 雕版轮廓、套色、纸墨与材质 | [002](entries/002-ouyang-feng/README.md) |
-| 摄影人像 | 光线、镜头、人物与环境 | [003](entries/003-galaxy-saving-gaze/README.md) |
-| 产品视觉 | 材质、布光、商业场景 | 待收录 |
+<a href="entries/004-unnoticed-everyday-beauty/README.md"><img src="entries/004-unnoticed-everyday-beauty/images/result.png" width="280" alt="生活中未曾注意的美：雨后城市砖缝小草与叶尖水滴" /></a>
 
-一个词条可以属于多个分类。完整提示词与实验记录保存在详情页。
+### [004 · 生活中未曾注意的美](entries/004-unnoticed-everyday-beauty/README.md)
+
+在日常城市环境中发现自然的细微互动。小草是一个示例，也可尝试雨滴、落叶、光影、小鸟与水面倒影等场景。
+
+`手机随拍` `城市自然` `治愈` · **个人实验 / 已测试一次**
+
+提示词来源：**X 作者 [DeepBlue深蓝（@DeepBlueX0）](https://x.com/DeepBlueX0)**；图片为本项目生成实验。原帖链接待补充。
 
 ## 如何使用
 
@@ -66,6 +80,7 @@
 
 | 日期 | 更新 |
 | --- | --- |
+| 2026-10-12 | 收录“生活中未曾注意的美”，标注 DeepBlue深蓝 来源；整理主分类与标签，首页按海报、插画、人物摄影、风景分区。 |
 | 2026-10-12 | 收录“拯救银河系的眼神”，标注 lyshen 来源；加入美学与细节约束的模型适配学习笔记。 |
 | 2026-10-11 | 加入欧阳锋蛤蟆功武侠浮世绘案例，标注 Larus Canus 来源并记录动作与材质表现。 |
 | 2026-10-11 | 建立词典结构、来源说明与统一模板；加入首个古诗词海报实验。 |
