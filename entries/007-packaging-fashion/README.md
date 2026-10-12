@@ -46,11 +46,11 @@
 
 | 全身穿搭 | 拍摄间隙 |
 | --- | --- |
-| ![奶白钴蓝全身穿搭](images/rabbit-01-full-look.png) | ![模特坐在工作室调整袖口](images/rabbit-02-backstage.png) |
+| <a href="images/rabbit-01-full-look.png"><img src="images/rabbit-01-full-look.png" width="280" alt="奶白钴蓝全身穿搭" /></a> | <a href="images/rabbit-02-backstage.png"><img src="images/rabbit-02-backstage.png" width="280" alt="模特坐在工作室调整袖口" /></a> |
 
 | 包袋与首饰 | 鞋履与裙摆 |
 | --- | --- |
-| ![糖纸形包袋与首饰近景](images/rabbit-03-bag-jewelry.png) | ![奶白钴蓝鞋履和裙摆特写](images/rabbit-04-shoes.png) |
+| <a href="images/rabbit-03-bag-jewelry.png"><img src="images/rabbit-03-bag-jewelry.png" width="280" alt="糖纸形包袋与首饰近景" /></a> | <a href="images/rabbit-04-shoes.png"><img src="images/rabbit-04-shoes.png" width="280" alt="奶白钴蓝鞋履和裙摆特写" /></a> |
 
 第一张确定设计，后面三张参考前面的结果生成。它们不是四次完全独立随机生成。奶白与钴蓝、红色小扣件、包袋糖纸端部较一致；兔形耳饰实际更像花形，部分蓝色装饰也不像清楚的兔图案，未完全达成原先要求。
 

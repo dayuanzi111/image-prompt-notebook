@@ -91,7 +91,7 @@
 
 ## 产品与商业视觉
 
-<a href="entries/007-packaging-fashion/README.md"><img src="entries/007-packaging-fashion/images/rabbit-01-full-look.png" width="240" alt="大白兔奶糖主题服装概念，全身穿搭" /></a>
+<a href="entries/007-packaging-fashion/README.md"><img src="entries/007-packaging-fashion/images/rabbit-01-full-look.png" width="280" alt="大白兔奶糖主题服装概念，全身穿搭" /></a>
 
 ### [007 · 产品包装转译成衣 · Lookbook 与无模特展示](entries/007-packaging-fashion/README.md)
 
