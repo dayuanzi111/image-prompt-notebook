@@ -16,7 +16,7 @@
 | 插画与人物绘画 | [002 · 欧阳锋蛤蟆功](entries/002-ouyang-feng/README.md) / [005 · 课本圆珠笔二次涂鸦](entries/005-textbook-ballpoint-doodle/README.md) |
 | 人物摄影 | [003 · 拯救银河系的眼神](entries/003-galaxy-saving-gaze/README.md) |
 | 风景与城市日常 | [004 · 生活中未曾注意的美](entries/004-unnoticed-everyday-beauty/README.md) / [006 · 百年后的地标](entries/006-landmarks-after-humans/README.md) |
-| 产品与商业视觉 | 待收录 |
+| 产品与商业视觉 | [007 · 产品包装转译成衣](entries/007-packaging-fashion/README.md) |
 
 每条一个主分类，风格、题材与情绪另作标签。[查看完整分类索引](entries/README.md)。
 
@@ -89,6 +89,18 @@
 
 提示词来源：**X 作者 [DeepBlue深蓝（@DeepBlueX0）](https://x.com/DeepBlueX0)**；两图均为本项目生成。原帖待补充。
 
+## 产品与商业视觉
+
+<a href="entries/007-packaging-fashion/README.md"><img src="entries/007-packaging-fashion/images/rabbit-01-full-look.png" width="240" alt="大白兔奶糖主题服装概念，全身穿搭" /></a>
+
+### [007 · 产品包装转译成衣 · Lookbook 与无模特展示](entries/007-packaging-fashion/README.md)
+
+收录可口可乐与大白兔主题实验，保留设计不足的观察；增加无模特隐形人台展示与更明确的设计转译模板。
+
+`服装概念` `配饰` `包装转译` · **有模特已生成 / 无模特待测试**
+
+提示词来源：**X 作者 [DeepBlue深蓝（@DeepBlueX0）](https://x.com/DeepBlueX0)**；图片为本项目非官方设计概念。原帖待补。
+
 ## 如何使用
 
 1. 从效果图与分类选择词条。
@@ -101,6 +113,7 @@
 
 | 日期 | 更新 |
 | --- | --- |
+| 2026-10-12 | 收录包装转译成衣案例及5张结果；补充无模特展示模板，区分设计选择与未验证的模型推断。 |
 | 2026-10-12 | 收录百年地标的 iPhone 与过期 35mm 胶片两个版本及图片，补充动物 POV 与场景调整方法。 |
 | 2026-10-12 | 收录课本圆珠笔二次涂鸦，归入插画类；补充动作、图案和动漫同框模板，记录模拟页文字错误。 |
 | 2026-10-12 | 收录“生活中未曾注意的美”，标注 DeepBlue深蓝 来源；整理主分类与标签，首页按海报、插画、人物摄影、风景分区。 |
