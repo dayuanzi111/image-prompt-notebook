@@ -18,6 +18,7 @@
 | 005 | [课本圆珠笔二次涂鸦](005-textbook-ballpoint-doodle/README.md) | 圆珠笔 / 教材涂鸦 / 业余手绘 | DeepBlue深蓝（@DeepBlueX0） | 已测试一次（模拟页） |
 | 009 | [极简黑白木刻人物](009-minimal-black-white-woodcut/README.md) | 木刻 / 文学人物 / 书籍与公众号插图 | DeepBlue深蓝（@DeepBlueX0） | 两个主题各生成一次 |
 | 010 | [跨作品人物 · 怀旧小人书](010-crossover-lianhuanhua/README.md) | 连环画 / 淡彩 / 跨作品人物 | DeepBlue深蓝（@DeepBlueX0） | 线描已生成；淡彩为编辑结果 |
+| 011 | [稚拙蜡笔画 · 自由想象](011-naive-crayon-imagination/README.md) | 蜡笔 / 童趣 / 留白 | DeepBlue深蓝（@DeepBlueX0） | 已生成一次 |
 
 ## 人物摄影
 

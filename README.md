@@ -13,7 +13,7 @@
 | 主分类 | 当前词条 |
 | --- | --- |
 | 海报与平面设计 | [001 · 新中式古诗词海报](entries/001-chinese-poetry/README.md) |
-| 插画与人物绘画 | [002 · 欧阳锋蛤蟆功](entries/002-ouyang-feng/README.md) / [005 · 课本涂鸦](entries/005-textbook-ballpoint-doodle/README.md) / [009 · 黑白木刻](entries/009-minimal-black-white-woodcut/README.md) / [010 · 怀旧小人书](entries/010-crossover-lianhuanhua/README.md) |
+| 插画与人物绘画 | [002 · 欧阳锋蛤蟆功](entries/002-ouyang-feng/README.md) / [005 · 课本涂鸦](entries/005-textbook-ballpoint-doodle/README.md) / [009 · 黑白木刻](entries/009-minimal-black-white-woodcut/README.md) / [010 · 怀旧小人书](entries/010-crossover-lianhuanhua/README.md) / [011 · 稚拙蜡笔画](entries/011-naive-crayon-imagination/README.md) |
 | 人物摄影 | [003 · 拯救银河系的眼神](entries/003-galaxy-saving-gaze/README.md) / [008 · 手机坠落九连拍](entries/008-falling-phone-burst/README.md) |
 | 风景与城市日常 | [004 · 生活中未曾注意的美](entries/004-unnoticed-everyday-beauty/README.md) / [006 · 百年后的地标](entries/006-landmarks-after-humans/README.md) |
 | 产品与商业视觉 | [007 · 产品包装转译成衣](entries/007-packaging-fashion/README.md) |
@@ -71,6 +71,16 @@
 保存线描和淡彩两版，可替换跨度更大的角色组合；附插画与小人书封皮的待测试模板。
 
 `连环画` `淡彩印刷` `跨作品人物` · **线描生成 / 淡彩编辑**
+
+提示词来源：**X 作者 [DeepBlue深蓝（@DeepBlueX0）](https://x.com/DeepBlueX0)**；图片为本项目生成。原帖待补。
+
+### [011 · 稚拙蜡笔画 · 自由想象](entries/011-naive-crayon-imagination/README.md)
+
+<a href="entries/011-naive-crayon-imagination/README.md"><img src="entries/011-naive-crayon-imagination/images/result.png" width="280" alt="加菲猫躺在千层面云朵上的蜡笔画，大面积留白" /></a>
+
+以熟悉角色和一个简单奇想建立童趣，记录蜡笔笔触、纸纹与留白的实际表现。
+
+`蜡笔` `自由想象` `留白` · **已生成一次**
 
 提示词来源：**X 作者 [DeepBlue深蓝（@DeepBlueX0）](https://x.com/DeepBlueX0)**；图片为本项目生成。原帖待补。
 
@@ -143,6 +153,7 @@
 
 | 日期 | 更新 |
 | --- | --- |
+| 2026-10-12 | 收录稚拙蜡笔画及加菲猫示例，补充笔触、纸纹、角色识别与留白建议。 |
 | 2026-10-12 | 收录跨作品人物小人书，保存林黛玉与鲁智深两版；补充大跨度角色与封皮模板。 |
 | 2026-10-12 | 收录极简黑白木刻人物，保存黛玉与鲁迅示例，补充书籍和公众号插图应用观察。 |
 | 2026-10-12 | 收录手机坠落九连拍女高中生版，归人物摄影，补充轨迹、时间范围与实际体验。 |
