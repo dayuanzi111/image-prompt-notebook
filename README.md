@@ -13,7 +13,7 @@
 | 主分类 | 当前词条 |
 | --- | --- |
 | 海报与平面设计 | [001 · 新中式古诗词海报](entries/001-chinese-poetry/README.md) |
-| 插画与人物绘画 | [002 · 欧阳锋蛤蟆功](entries/002-ouyang-feng/README.md) / [005 · 课本圆珠笔二次涂鸦](entries/005-textbook-ballpoint-doodle/README.md) / [009 · 极简黑白木刻人物](entries/009-minimal-black-white-woodcut/README.md) |
+| 插画与人物绘画 | [002 · 欧阳锋蛤蟆功](entries/002-ouyang-feng/README.md) / [005 · 课本涂鸦](entries/005-textbook-ballpoint-doodle/README.md) / [009 · 黑白木刻](entries/009-minimal-black-white-woodcut/README.md) / [010 · 怀旧小人书](entries/010-crossover-lianhuanhua/README.md) |
 | 人物摄影 | [003 · 拯救银河系的眼神](entries/003-galaxy-saving-gaze/README.md) / [008 · 手机坠落九连拍](entries/008-falling-phone-burst/README.md) |
 | 风景与城市日常 | [004 · 生活中未曾注意的美](entries/004-unnoticed-everyday-beauty/README.md) / [006 · 百年后的地标](entries/006-landmarks-after-humans/README.md) |
 | 产品与商业视觉 | [007 · 产品包装转译成衣](entries/007-packaging-fashion/README.md) |
@@ -61,6 +61,16 @@
 保存黛玉葬花与鲁迅执笔两张示例，补充书籍、公众号用途与留白、刀痕和缩小可读性的观察。
 
 `黑白木刻` `文学人物` `书籍插图` · **两个主题各生成一次**
+
+提示词来源：**X 作者 [DeepBlue深蓝（@DeepBlueX0）](https://x.com/DeepBlueX0)**；图片为本项目生成。原帖待补。
+
+### [010 · 跨作品人物 · 怀旧小人书](entries/010-crossover-lianhuanhua/README.md)
+
+<a href="entries/010-crossover-lianhuanhua/README.md"><img src="entries/010-crossover-lianhuanhua/images/color.png" width="280" alt="淡彩连环画中林黛玉与鲁智深在花树下相遇" /></a>
+
+保存线描和淡彩两版，可替换跨度更大的角色组合；附插画与小人书封皮的待测试模板。
+
+`连环画` `淡彩印刷` `跨作品人物` · **线描生成 / 淡彩编辑**
 
 提示词来源：**X 作者 [DeepBlue深蓝（@DeepBlueX0）](https://x.com/DeepBlueX0)**；图片为本项目生成。原帖待补。
 
@@ -133,6 +143,7 @@
 
 | 日期 | 更新 |
 | --- | --- |
+| 2026-10-12 | 收录跨作品人物小人书，保存林黛玉与鲁智深两版；补充大跨度角色与封皮模板。 |
 | 2026-10-12 | 收录极简黑白木刻人物，保存黛玉与鲁迅示例，补充书籍和公众号插图应用观察。 |
 | 2026-10-12 | 收录手机坠落九连拍女高中生版，归人物摄影，补充轨迹、时间范围与实际体验。 |
 | 2026-10-12 | 收录包装转译成衣案例及5张结果；补充无模特展示模板，区分设计选择与未验证的模型推断。 |
