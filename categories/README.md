@@ -7,7 +7,7 @@
 | 主分类 | 收录范围 | 当前案例 |
 | --- | --- | --- |
 | 海报与平面设计 | 以标题、排版和传播用途为核心的海报、封面、信息图 | [001](../entries/001-chinese-poetry/README.md) |
-| 插画与人物绘画 | 手绘、装饰画、角色绘画、木版等非摄影画面 | [002](../entries/002-ouyang-feng/README.md) / [005](../entries/005-textbook-ballpoint-doodle/README.md) |
+| 插画与人物绘画 | 手绘、装饰画、角色绘画、木版等非摄影画面 | [002](../entries/002-ouyang-feng/README.md) / [005](../entries/005-textbook-ballpoint-doodle/README.md) / [009](../entries/009-minimal-black-white-woodcut/README.md) |
 | 人物摄影 | 以人物、表情与互动为主要对象的摄影风格图像 | [003](../entries/003-galaxy-saving-gaze/README.md) / [008](../entries/008-falling-phone-burst/README.md) |
 | 风景与城市日常 | 街景、自然环境、生活空间及摄影风格的架空地标景观 | [004](../entries/004-unnoticed-everyday-beauty/README.md) / [006](../entries/006-landmarks-after-humans/README.md) |
 | 产品与商业视觉 | 以商品、包装、服装设计与商业展示为主的图像 | [007](../entries/007-packaging-fashion/README.md) |
