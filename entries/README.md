@@ -28,6 +28,7 @@
 | 编号 | 词条 | 标签 | X 作者 | 状态 |
 | --- | --- | --- | --- | --- |
 | 004 | [生活中未曾注意的美](004-unnoticed-everyday-beauty/README.md) | 手机随拍 / 城市自然 / 微小发现 | DeepBlue深蓝（@DeepBlueX0） | 已测试一次 |
+| 006 | [百年后的地标 · 野生动物视角](006-landmarks-after-humans/README.md) | 架空未来 / 动物POV / 手机或胶片 | DeepBlue深蓝（@DeepBlueX0） | 两种版本各测试一次 |
 
 ## 产品与商业视觉
 

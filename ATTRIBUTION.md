@@ -31,6 +31,8 @@
 | 词条 005 的提交版本与图片 | 本项目 AI 选择骑车主题、内置工具生成 | 新建模拟教材页，无真实教材参考图；生成文字有误，详见词条 |
 | 《破阵子·掷地刘郎玉斗》 | 宋代辛弃疾，[原词参考](https://www.gushiwen.cn/shiwenv_6fb2d4a7477a.aspx) | 诗句核对来源；未转载现代赏析 |
 
+词条 006 的两个收录提示词来源均为 **X 作者 [DeepBlue深蓝（@DeepBlueX0）](https://x.com/DeepBlueX0)**，作者由整理者提供，原帖待补。实际提交文本、两张图及补充笔记由本项目 AI 辅助生成整理，不是原作者效果图或真实设备拍摄。
+
 ## 更正与联系
 
 如来源有误或内容需要撤下，请通过 [Issue](https://github.com/dayuanzi111/image-prompt-notebook/issues) 提供词条编号和相关原帖链接。

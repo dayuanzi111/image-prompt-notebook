@@ -15,7 +15,7 @@
 | 海报与平面设计 | [001 · 新中式古诗词海报](entries/001-chinese-poetry/README.md) |
 | 插画与人物绘画 | [002 · 欧阳锋蛤蟆功](entries/002-ouyang-feng/README.md) / [005 · 课本圆珠笔二次涂鸦](entries/005-textbook-ballpoint-doodle/README.md) |
 | 人物摄影 | [003 · 拯救银河系的眼神](entries/003-galaxy-saving-gaze/README.md) |
-| 风景与城市日常 | [004 · 生活中未曾注意的美](entries/004-unnoticed-everyday-beauty/README.md) |
+| 风景与城市日常 | [004 · 生活中未曾注意的美](entries/004-unnoticed-everyday-beauty/README.md) / [006 · 百年后的地标](entries/006-landmarks-after-humans/README.md) |
 | 产品与商业视觉 | 待收录 |
 
 每条一个主分类，风格、题材与情绪另作标签。[查看完整分类索引](entries/README.md)。
@@ -78,6 +78,17 @@
 
 提示词来源：**X 作者 [DeepBlue深蓝（@DeepBlueX0）](https://x.com/DeepBlueX0)**；图片为本项目生成实验。原帖链接待补充。
 
+### [006 · 百年后的地标 · 野生动物视角](entries/006-landmarks-after-humans/README.md)
+
+<a href="entries/006-landmarks-after-humans/README.md"><img src="entries/006-landmarks-after-humans/images/iphone-eiffel.png" width="240" alt="iPhone风格的百年后埃菲尔铁塔，狐狸高度的低机位" /></a>
+<a href="entries/006-landmarks-after-humans/README.md"><img src="entries/006-landmarks-after-humans/images/film-venice.png" width="240" alt="胶片风格的百年后圣马可广场，水鸟水面视角" /></a>
+
+同一主题可选择 **iPhone 随拍**或**过期 35mm 彩色胶片**，并调整地标、动物机位与自然演变细节。
+
+`架空未来` `野生动物POV` `手机或胶片` · **两个版本各生成一次，非严格对照实验**
+
+提示词来源：**X 作者 [DeepBlue深蓝（@DeepBlueX0）](https://x.com/DeepBlueX0)**；两图均为本项目生成。原帖待补充。
+
 ## 如何使用
 
 1. 从效果图与分类选择词条。
@@ -90,6 +101,7 @@
 
 | 日期 | 更新 |
 | --- | --- |
+| 2026-10-12 | 收录百年地标的 iPhone 与过期 35mm 胶片两个版本及图片，补充动物 POV 与场景调整方法。 |
 | 2026-10-12 | 收录课本圆珠笔二次涂鸦，归入插画类；补充动作、图案和动漫同框模板，记录模拟页文字错误。 |
 | 2026-10-12 | 收录“生活中未曾注意的美”，标注 DeepBlue深蓝 来源；整理主分类与标签，首页按海报、插画、人物摄影、风景分区。 |
 | 2026-10-12 | 收录“拯救银河系的眼神”，标注 lyshen 来源；加入美学与细节约束的模型适配学习笔记。 |
