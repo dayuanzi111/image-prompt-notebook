@@ -14,7 +14,7 @@
 | --- | --- |
 | 海报与平面设计 | [001 · 新中式古诗词海报](entries/001-chinese-poetry/README.md) |
 | 插画与人物绘画 | [002 · 欧阳锋蛤蟆功](entries/002-ouyang-feng/README.md) / [005 · 课本圆珠笔二次涂鸦](entries/005-textbook-ballpoint-doodle/README.md) |
-| 人物摄影 | [003 · 拯救银河系的眼神](entries/003-galaxy-saving-gaze/README.md) |
+| 人物摄影 | [003 · 拯救银河系的眼神](entries/003-galaxy-saving-gaze/README.md) / [008 · 手机坠落九连拍](entries/008-falling-phone-burst/README.md) |
 | 风景与城市日常 | [004 · 生活中未曾注意的美](entries/004-unnoticed-everyday-beauty/README.md) / [006 · 百年后的地标](entries/006-landmarks-after-humans/README.md) |
 | 产品与商业视觉 | [007 · 产品包装转译成衣](entries/007-packaging-fashion/README.md) |
 
@@ -66,6 +66,16 @@
 
 提示词来源：**X 作者 [lyshen（@lishishen7i）](https://x.com/lishishen7i)**；图片为本项目生成实验。原帖链接待补充。
 
+<a href="entries/008-falling-phone-burst/README.md"><img src="entries/008-falling-phone-burst/images/result-girl.png" width="280" alt="女高中生教室手机坠落九连拍，旋转机位与运动模糊" /></a>
+
+### [008 · 手机坠落九连拍](entries/008-falling-phone-burst/README.md)
+
+以中国女高中生和教室为最终主题，模拟后置镜头滑落到拾取的九帧过程，记录连续性、时间范围与模糊控制的不足。
+
+`手机POV` `九宫格` `连续动作` · **最终版为参考图编辑结果**
+
+提示词来源：**X 作者 [DeepBlue深蓝（@DeepBlueX0）](https://x.com/DeepBlueX0)**；图片为本项目生成。原帖待补。
+
 ## 风景与城市日常
 
 <a href="entries/004-unnoticed-everyday-beauty/README.md"><img src="entries/004-unnoticed-everyday-beauty/images/result.png" width="280" alt="生活中未曾注意的美：雨后城市砖缝小草与叶尖水滴" /></a>
@@ -113,6 +123,7 @@
 
 | 日期 | 更新 |
 | --- | --- |
+| 2026-10-12 | 收录手机坠落九连拍女高中生版，归人物摄影，补充轨迹、时间范围与实际体验。 |
 | 2026-10-12 | 收录包装转译成衣案例及5张结果；补充无模特展示模板，区分设计选择与未验证的模型推断。 |
 | 2026-10-12 | 收录百年地标的 iPhone 与过期 35mm 胶片两个版本及图片，补充动物 POV 与场景调整方法。 |
 | 2026-10-12 | 收录课本圆珠笔二次涂鸦，归入插画类；补充动作、图案和动漫同框模板，记录模拟页文字错误。 |

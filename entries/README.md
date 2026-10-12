@@ -22,6 +22,7 @@
 | 编号 | 词条 | 标签 | X 作者 | 状态 |
 | --- | --- | --- | --- | --- |
 | 003 | [拯救银河系的眼神](003-galaxy-saving-gaze/README.md) | 双人近景 / 眼神互动 / 低饱和 | lyshen（@lishishen7i） | 已测试一次 |
+| 008 | [手机坠落九连拍](008-falling-phone-burst/README.md) | 手机POV / 九宫格 / 连续动作 | DeepBlue深蓝（@DeepBlueX0） | 最终女高中生版已编辑生成 |
 
 ## 风景与城市日常
 
