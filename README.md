@@ -13,7 +13,7 @@
 | 主分类 | 当前词条 |
 | --- | --- |
 | 海报与平面设计 | [001 · 新中式古诗词海报](entries/001-chinese-poetry/README.md) |
-| 插画与人物绘画 | [002 · 欧阳锋蛤蟆功](entries/002-ouyang-feng/README.md) |
+| 插画与人物绘画 | [002 · 欧阳锋蛤蟆功](entries/002-ouyang-feng/README.md) / [005 · 课本圆珠笔二次涂鸦](entries/005-textbook-ballpoint-doodle/README.md) |
 | 人物摄影 | [003 · 拯救银河系的眼神](entries/003-galaxy-saving-gaze/README.md) |
 | 风景与城市日常 | [004 · 生活中未曾注意的美](entries/004-unnoticed-everyday-beauty/README.md) |
 | 产品与商业视觉 | 待收录 |
@@ -43,6 +43,16 @@
 `东方美学` `武侠人物` `木版插画` · **个人实验 / 已测试一次**
 
 提示词来源：**X 作者 Larus Canus**；图片为本项目生成实验。原帖链接待补充。
+
+<a href="entries/005-textbook-ballpoint-doodle/README.md"><img src="entries/005-textbook-ballpoint-doodle/images/result.png" width="280" alt="模拟教材页上的杜甫骑车圆珠笔涂鸦，生成印刷文字存在错误" /></a>
+
+### [005 · 课本圆珠笔二次涂鸦](entries/005-textbook-ballpoint-doodle/README.md)
+
+“杜甫很忙”式蓝黑圆珠笔加画：可指定动作、道具与同框角色。本次为模拟教材页，保留文字错误与改进记录。
+
+`圆珠笔` `教材涂鸦` `业余手绘` · **个人实验 / 已测试一次**
+
+提示词来源：**X 作者 [DeepBlue深蓝（@DeepBlueX0）](https://x.com/DeepBlueX0)**；图片为本项目生成实验。原帖链接待补充。
 
 ## 人物摄影
 
@@ -80,6 +90,7 @@
 
 | 日期 | 更新 |
 | --- | --- |
+| 2026-10-12 | 收录课本圆珠笔二次涂鸦，归入插画类；补充动作、图案和动漫同框模板，记录模拟页文字错误。 |
 | 2026-10-12 | 收录“生活中未曾注意的美”，标注 DeepBlue深蓝 来源；整理主分类与标签，首页按海报、插画、人物摄影、风景分区。 |
 | 2026-10-12 | 收录“拯救银河系的眼神”，标注 lyshen 来源；加入美学与细节约束的模型适配学习笔记。 |
 | 2026-10-11 | 加入欧阳锋蛤蟆功武侠浮世绘案例，标注 Larus Canus 来源并记录动作与材质表现。 |

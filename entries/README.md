@@ -15,6 +15,7 @@
 | 编号 | 词条 | 标签 | X 作者 | 状态 |
 | --- | --- | --- | --- | --- |
 | 002 | [欧阳锋蛤蟆功 · 武侠浮世绘](002-ouyang-feng/README.md) | 武侠人物 / 浮世绘 / 木版套色 | Larus Canus | 已测试一次 |
+| 005 | [课本圆珠笔二次涂鸦](005-textbook-ballpoint-doodle/README.md) | 圆珠笔 / 教材涂鸦 / 业余手绘 | DeepBlue深蓝（@DeepBlueX0） | 已测试一次（模拟页） |
 
 ## 人物摄影
 
