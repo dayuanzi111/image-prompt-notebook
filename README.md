@@ -12,7 +12,7 @@
 
 | 主分类 | 当前词条 |
 | --- | --- |
-| 海报与平面设计 | [001 · 新中式古诗词海报](entries/001-chinese-poetry/README.md) |
+| 海报与平面设计 | [001 · 新中式古诗词海报](entries/001-chinese-poetry/README.md) / [015 · 山河流线](entries/015-flowing-topographic-poster/README.md) |
 | 插画与人物绘画 | [浏览本类词条](entries/README.md#插画与人物绘画)：木刻、蜡笔、连环画、重彩等 |
 | 人物摄影 | [浏览本类词条](entries/README.md#人物摄影)：眼神互动、手机连拍、CCD 人像、男友衬衫等 |
 | 风景与城市日常 | [004 · 生活中未曾注意的美](entries/004-unnoticed-everyday-beauty/README.md) / [006 · 百年后的地标](entries/006-landmarks-after-humans/README.md) |
@@ -31,6 +31,16 @@
 `东方美学` `装饰插画` `海报排版` · **个人实验 / 已测试一次**
 
 提示词来源：**X 作者 Larus Canus**；图片为本项目生成实验。原帖链接待补充。
+
+### [015 · 山河流线 · 等高线艺术海报](entries/015-flowing-topographic-poster/README.md)
+
+<a href="entries/015-flowing-topographic-poster/README.md"><img src="entries/015-flowing-topographic-poster/images/result.png" width="280" alt="山河流线艺术海报：靛蓝、蓝绿与朱红连续线条组成山谷，顶部中英文标题" /></a>
+
+英文模板完整在上、中文模板完整在下；保存海报示例，并补充无字正文插画与封面底图的用途建议。
+
+`连续等高线` `抽象山水` `书籍用途` · **海报已生成 / 书籍版本待测试**
+
+提示词由整理者提供，作者与原帖待确认；图片为本项目生成。
 
 ## 插画与人物绘画
 
@@ -183,6 +193,7 @@
 
 | 日期 | 更新 |
 | --- | --- |
+| 2026-10-13 | 收录山河流线等高线海报，中英文按上下完整分区；补充书籍插画与封面用途、留白与线条密度建议。 |
 | 2026-10-13 | 收录DeepBlue深蓝的男友衬衫失败四连拍，归人物摄影；保存图片与提交文本，补充服装结构、抓拍瑕疵和连续性观察。 |
 | 2026-10-13 | 收录尘林 Spark 的韩系 CCD 短提示词与改写结果，归人物摄影；补充短提示词经验及对照测试边界。 |
 | 2026-10-13 | 收录鱼哥的敦煌飞天重绘，补充背景简化、飘带路径与人物融合观察。 |
