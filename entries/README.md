@@ -10,6 +10,7 @@
 | --- | --- | --- | --- | --- |
 | 001 | [新中式古诗词海报](001-chinese-poetry/README.md) | 东方美学 / 装饰插画 / 诗词排版 | Larus Canus | 已测试一次 |
 | 015 | [山河流线 · 等高线艺术海报](015-flowing-topographic-poster/README.md) | 抽象山水 / 连续等高线 / 书籍插画与封面 | Larus Canus（@MrLarus） | 海报已生成一次；书籍版本待测试 |
+| 016 | [新中式古诗词 · 细线设色通用模板](016-classical-poetry-color-template/README.md) | 工笔细线 / 东方设色 / 书籍插画 / 系列海报 | Larus Canus（@MrLarus） | 原始模板已保存；乱花浅草示例已生成 |
 
 ## 插画与人物绘画
 

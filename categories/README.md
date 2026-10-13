@@ -6,7 +6,7 @@
 
 | 主分类 | 收录范围 | 当前案例 |
 | --- | --- | --- |
-| 海报与平面设计 | 以标题、排版和传播用途为核心的海报、封面、信息图 | [001](../entries/001-chinese-poetry/README.md) / [015](../entries/015-flowing-topographic-poster/README.md) |
+| 海报与平面设计 | 以标题、排版和传播用途为核心的海报、封面、信息图 | [浏览本类词条](../entries/README.md#海报与平面设计) |
 | 插画与人物绘画 | 手绘、装饰画、角色绘画、木版、连环画、蜡笔画、半写实重彩等 | [浏览本类词条](../entries/README.md#插画与人物绘画) |
 | 人物摄影 | 以人物、表情与互动为主要对象的摄影风格图像 | [浏览本类词条](../entries/README.md#人物摄影) |
 | 风景与城市日常 | 街景、自然环境、生活空间及摄影风格的架空地标景观 | [004](../entries/004-unnoticed-everyday-beauty/README.md) / [006](../entries/006-landmarks-after-humans/README.md) |

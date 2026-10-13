@@ -12,7 +12,7 @@
 
 | 主分类 | 当前词条 |
 | --- | --- |
-| 海报与平面设计 | [001 · 新中式古诗词海报](entries/001-chinese-poetry/README.md) / [015 · 山河流线](entries/015-flowing-topographic-poster/README.md) |
+| 海报与平面设计 | [浏览本类词条](entries/README.md#海报与平面设计)：古诗词、等高线地形与细线设色模板 |
 | 插画与人物绘画 | [浏览本类词条](entries/README.md#插画与人物绘画)：木刻、蜡笔、连环画、重彩等 |
 | 人物摄影 | [浏览本类词条](entries/README.md#人物摄影)：眼神互动、手机连拍、CCD 人像、男友衬衫等 |
 | 风景与城市日常 | [004 · 生活中未曾注意的美](entries/004-unnoticed-everyday-beauty/README.md) / [006 · 百年后的地标](entries/006-landmarks-after-humans/README.md) |
@@ -41,6 +41,16 @@
 `连续等高线` `抽象山水` `书籍用途` · **海报已生成 / 书籍版本待测试**
 
 提示词来源：**X 作者 [Larus Canus（@MrLarus）](https://x.com/MrLarus)**，署名与账号由整理者确认；原帖待补。图片为本项目生成。
+
+### [016 · 新中式古诗词 · 细线设色通用模板](entries/016-classical-poetry-color-template/README.md)
+
+<a href="entries/016-classical-poetry-color-template/README.md"><img src="entries/016-classical-poetry-color-template/images/result.png" width="280" alt="乱花浅草海报：红花绿岸、春日湖水与骑马旅者" /></a>
+
+保存完整原始模板、简要填写与配色方法；附《乱花浅草》示例及无字插画的改用说明。
+
+`古诗词` `东方设色` `书籍插画` · **示例已生成一次**
+
+提示词来源：**X 作者 [Larus Canus（@MrLarus）](https://x.com/MrLarus)**，由整理者确认；原帖待补。图片为本项目生成。
 
 ## 插画与人物绘画
 
@@ -193,6 +203,7 @@
 
 | 日期 | 更新 |
 | --- | --- |
+| 2026-10-13 | 保存Larus Canus的古诗词细线设色原始模板，附乱花浅草示例、配色与插画用法。 |
 | 2026-10-13 | 收录山河流线等高线海报，中英文按上下完整分区；补充书籍插画与封面用途、留白与线条密度建议。 |
 | 2026-10-13 | 收录DeepBlue深蓝的男友衬衫失败四连拍，归人物摄影；保存图片与提交文本，补充服装结构、抓拍瑕疵和连续性观察。 |
 | 2026-10-13 | 收录尘林 Spark 的韩系 CCD 短提示词与改写结果，归人物摄影；补充短提示词经验及对照测试边界。 |
