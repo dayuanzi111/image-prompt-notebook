@@ -13,7 +13,7 @@
 | 主分类 | 当前词条 |
 | --- | --- |
 | 海报与平面设计 | [001 · 新中式古诗词海报](entries/001-chinese-poetry/README.md) |
-| 插画与人物绘画 | [002 · 欧阳锋蛤蟆功](entries/002-ouyang-feng/README.md) / [005 · 课本涂鸦](entries/005-textbook-ballpoint-doodle/README.md) / [009 · 黑白木刻](entries/009-minimal-black-white-woodcut/README.md) / [010 · 怀旧小人书](entries/010-crossover-lianhuanhua/README.md) / [011 · 稚拙蜡笔画](entries/011-naive-crayon-imagination/README.md) |
+| 插画与人物绘画 | [浏览本类词条](entries/README.md#插画与人物绘画)：木刻、蜡笔、连环画、重彩等 |
 | 人物摄影 | [003 · 拯救银河系的眼神](entries/003-galaxy-saving-gaze/README.md) / [008 · 手机坠落九连拍](entries/008-falling-phone-burst/README.md) |
 | 风景与城市日常 | [004 · 生活中未曾注意的美](entries/004-unnoticed-everyday-beauty/README.md) / [006 · 百年后的地标](entries/006-landmarks-after-humans/README.md) |
 | 产品与商业视觉 | [007 · 产品包装转译成衣](entries/007-packaging-fashion/README.md) |
@@ -84,6 +84,16 @@
 
 提示词来源：**X 作者 [DeepBlue深蓝（@DeepBlueX0）](https://x.com/DeepBlueX0)**；图片为本项目生成。原帖待补。
 
+### [012 · 敦煌飞天 · 现代重彩重绘](entries/012-dunhuang-flying-apsara/README.md)
+
+<a href="entries/012-dunhuang-flying-apsara/README.md"><img src="entries/012-dunhuang-flying-apsara/images/result.png" width="280" alt="横卧吹笛的飞天，蓝绿朱红飘带与鎏金重彩" /></a>
+
+现代真人面容与工笔重彩融合，记录背景密度、飘带路径与壁画质感的实际表现。
+
+`敦煌美学` `工笔重彩` `半写实` · **已生成一次**
+
+提示词来源：**X 作者 [鱼哥（@MrgAfish）](https://x.com/MrgAfish)**；图片为本项目生成。原帖待补。
+
 ## 人物摄影
 
 <a href="entries/003-galaxy-saving-gaze/README.md"><img src="entries/003-galaxy-saving-gaze/images/result.png" width="280" alt="拯救银河系的眼神：女子仰望男子，冷灰绿双人近景照片" /></a>
@@ -153,6 +163,7 @@
 
 | 日期 | 更新 |
 | --- | --- |
+| 2026-10-13 | 收录鱼哥的敦煌飞天重绘，补充背景简化、飘带路径与人物融合观察。 |
 | 2026-10-12 | 收录稚拙蜡笔画及加菲猫示例，补充笔触、纸纹、角色识别与留白建议。 |
 | 2026-10-12 | 收录跨作品人物小人书，保存林黛玉与鲁智深两版；补充大跨度角色与封皮模板。 |
 | 2026-10-12 | 收录极简黑白木刻人物，保存黛玉与鲁迅示例，补充书籍和公众号插图应用观察。 |
