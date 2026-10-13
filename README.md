@@ -114,6 +114,16 @@
 
 提示词来源：**X 作者 [鱼哥（@MrgAfish）](https://x.com/MrgAfish)**；图片为本项目生成。原帖待补。
 
+### [017 · 嫦娥 · 工笔细线寓意插画](entries/017-change-symbolic-fine-line/README.md)
+
+<a href="entries/017-change-symbolic-fine-line/README.md"><img src="entries/017-change-symbolic-fine-line/images/result.png" width="280" alt="朱砂红背景中嫦娥低头轻抚白兔额头，细线淡彩与青绿衣饰" /></a>
+
+以一个明确的象征性动作建立叙事，保存原文、实际提交与细线、色场和装饰密度观察。
+
+`工笔细线` `东方寓意` `朱砂色场` · **已生成一次**
+
+提示词作者与原帖由整理者后续补充；图片为本项目生成。
+
 ## 人物摄影
 
 <a href="entries/003-galaxy-saving-gaze/README.md"><img src="entries/003-galaxy-saving-gaze/images/result.png" width="280" alt="拯救银河系的眼神：女子仰望男子，冷灰绿双人近景照片" /></a>
@@ -203,6 +213,7 @@
 
 | 日期 | 更新 |
 | --- | --- |
+| 2026-10-13 | 保存嫦娥工笔寓意插画及抚兔示例，归插画类，作者待补；古诗词原始模板与配色用法已收录于016。 |
 | 2026-10-13 | 保存Larus Canus的古诗词细线设色原始模板，附乱花浅草示例、配色与插画用法。 |
 | 2026-10-13 | 收录山河流线等高线海报，中英文按上下完整分区；补充书籍插画与封面用途、留白与线条密度建议。 |
 | 2026-10-13 | 收录DeepBlue深蓝的男友衬衫失败四连拍，归人物摄影；保存图片与提交文本，补充服装结构、抓拍瑕疵和连续性观察。 |
