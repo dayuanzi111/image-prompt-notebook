@@ -14,7 +14,7 @@
 | --- | --- |
 | 海报与平面设计 | [001 · 新中式古诗词海报](entries/001-chinese-poetry/README.md) |
 | 插画与人物绘画 | [浏览本类词条](entries/README.md#插画与人物绘画)：木刻、蜡笔、连环画、重彩等 |
-| 人物摄影 | [003 · 拯救银河系的眼神](entries/003-galaxy-saving-gaze/README.md) / [008 · 手机坠落九连拍](entries/008-falling-phone-burst/README.md) / [013 · 韩系 CCD 人像](entries/013-korean-ccd-portrait/README.md) |
+| 人物摄影 | [浏览本类词条](entries/README.md#人物摄影)：眼神互动、手机连拍、CCD 人像、男友衬衫等 |
 | 风景与城市日常 | [004 · 生活中未曾注意的美](entries/004-unnoticed-everyday-beauty/README.md) / [006 · 百年后的地标](entries/006-landmarks-after-humans/README.md) |
 | 产品与商业视觉 | [007 · 产品包装转译成衣](entries/007-packaging-fashion/README.md) |
 
@@ -126,6 +126,16 @@
 
 提示词来源：**X 作者 尘林 Spark**，署名由整理者提供；账号与原帖待补。图片为本项目生成。
 
+### [014 · 男友衬衫 · iPhone 失败四连拍](entries/014-oversized-shirt-phone-burst/README.md)
+
+<a href="entries/014-oversized-shirt-phone-burst/README.md"><img src="entries/014-oversized-shirt-phone-burst/images/result.png" width="280" alt="成年女性穿宽大浅蓝衬衫的居家四格随拍，含模糊、倾斜与闭眼瞬间" /></a>
+
+保存宽松男款衬衫的四格随拍，记录布料垂坠、服装遮挡与抓拍瑕疵；整理者认可本次效果。
+
+`Oversized` `居家随拍` `四连拍` · **改写生成一次**
+
+提示词来源：**X 作者 [DeepBlue深蓝（@DeepBlueX0）](https://x.com/DeepBlueX0)**，署名由整理者确认；原帖待补。图片为本项目生成。
+
 ## 风景与城市日常
 
 <a href="entries/004-unnoticed-everyday-beauty/README.md"><img src="entries/004-unnoticed-everyday-beauty/images/result.png" width="280" alt="生活中未曾注意的美：雨后城市砖缝小草与叶尖水滴" /></a>
@@ -173,6 +183,7 @@
 
 | 日期 | 更新 |
 | --- | --- |
+| 2026-10-13 | 收录DeepBlue深蓝的男友衬衫失败四连拍，归人物摄影；保存图片与提交文本，补充服装结构、抓拍瑕疵和连续性观察。 |
 | 2026-10-13 | 收录尘林 Spark 的韩系 CCD 短提示词与改写结果，归人物摄影；补充短提示词经验及对照测试边界。 |
 | 2026-10-13 | 收录鱼哥的敦煌飞天重绘，补充背景简化、飘带路径与人物融合观察。 |
 | 2026-10-12 | 收录稚拙蜡笔画及加菲猫示例，补充笔触、纸纹、角色识别与留白建议。 |

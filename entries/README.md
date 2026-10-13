@@ -28,6 +28,7 @@
 | 003 | [拯救银河系的眼神](003-galaxy-saving-gaze/README.md) | 双人近景 / 眼神互动 / 低饱和 | lyshen（@lishishen7i） | 已测试一次 |
 | 008 | [手机坠落九连拍](008-falling-phone-burst/README.md) | 手机POV / 九宫格 / 连续动作 | DeepBlue深蓝（@DeepBlueX0） | 最终女高中生版已编辑生成 |
 | 013 | [韩系自然人像 · CCD 彩色柔焦](013-korean-ccd-portrait/README.md) | 韩系人像 / 自然瑕疵 / 狐系眼神 / 夜景 | 尘林 Spark | 原文未直接测试；改写生成一张 |
+| 014 | [男友衬衫 · iPhone 失败四连拍](014-oversized-shirt-phone-burst/README.md) | Oversized / 居家随拍 / 四连拍 / 抓拍瑕疵 | DeepBlue深蓝（@DeepBlueX0） | 改写生成一次；整理者认可效果 |
 
 ## 风景与城市日常
 
