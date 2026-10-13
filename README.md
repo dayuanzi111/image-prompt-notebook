@@ -14,7 +14,7 @@
 | --- | --- |
 | 海报与平面设计 | [001 · 新中式古诗词海报](entries/001-chinese-poetry/README.md) |
 | 插画与人物绘画 | [浏览本类词条](entries/README.md#插画与人物绘画)：木刻、蜡笔、连环画、重彩等 |
-| 人物摄影 | [003 · 拯救银河系的眼神](entries/003-galaxy-saving-gaze/README.md) / [008 · 手机坠落九连拍](entries/008-falling-phone-burst/README.md) |
+| 人物摄影 | [003 · 拯救银河系的眼神](entries/003-galaxy-saving-gaze/README.md) / [008 · 手机坠落九连拍](entries/008-falling-phone-burst/README.md) / [013 · 韩系 CCD 人像](entries/013-korean-ccd-portrait/README.md) |
 | 风景与城市日常 | [004 · 生活中未曾注意的美](entries/004-unnoticed-everyday-beauty/README.md) / [006 · 百年后的地标](entries/006-landmarks-after-humans/README.md) |
 | 产品与商业视觉 | [007 · 产品包装转译成衣](entries/007-packaging-fashion/README.md) |
 
@@ -116,6 +116,16 @@
 
 提示词来源：**X 作者 [DeepBlue深蓝（@DeepBlueX0）](https://x.com/DeepBlueX0)**；图片为本项目生成。原帖待补。
 
+### [013 · 韩系自然人像 · CCD 彩色柔焦](entries/013-korean-ccd-portrait/README.md)
+
+<a href="entries/013-korean-ccd-portrait/README.md"><img src="entries/013-korean-ccd-portrait/images/result.png" width="280" alt="韩系成年女性回眸人像，粉蓝霓虹夜景与自然碎发" /></a>
+
+保存原始短提示词与实际改写，补充目标明确时短提示词的价值；本次未进行长短对照。
+
+`CCD质感` `彩色柔焦` `狐系眼神` · **原文未直接测试 / 改写生成一张**
+
+提示词来源：**X 作者 尘林 Spark**，署名由整理者提供；账号与原帖待补。图片为本项目生成。
+
 ## 风景与城市日常
 
 <a href="entries/004-unnoticed-everyday-beauty/README.md"><img src="entries/004-unnoticed-everyday-beauty/images/result.png" width="280" alt="生活中未曾注意的美：雨后城市砖缝小草与叶尖水滴" /></a>
@@ -163,6 +173,7 @@
 
 | 日期 | 更新 |
 | --- | --- |
+| 2026-10-13 | 收录尘林 Spark 的韩系 CCD 短提示词与改写结果，归人物摄影；补充短提示词经验及对照测试边界。 |
 | 2026-10-13 | 收录鱼哥的敦煌飞天重绘，补充背景简化、飘带路径与人物融合观察。 |
 | 2026-10-12 | 收录稚拙蜡笔画及加菲猫示例，补充笔触、纸纹、角色识别与留白建议。 |
 | 2026-10-12 | 收录跨作品人物小人书，保存林黛玉与鲁智深两版；补充大跨度角色与封皮模板。 |
