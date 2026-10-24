@@ -32,6 +32,8 @@
 | 008 | [手机坠落九连拍](008-falling-phone-burst/README.md) | 手机POV / 九宫格 / 连续动作 | DeepBlue深蓝（@DeepBlueX0） | 最终女高中生版已编辑生成 |
 | 013 | [韩系自然人像 · CCD 彩色柔焦](013-korean-ccd-portrait/README.md) | 韩系人像 / 自然瑕疵 / 狐系眼神 / 夜景 | 尘林 Spark | 原文未直接测试；改写生成一张 |
 | 014 | [男友衬衫 · iPhone 失败四连拍](014-oversized-shirt-phone-burst/README.md) | Oversized / 居家随拍 / 四连拍 / 抓拍瑕疵 | DeepBlue深蓝（@DeepBlueX0） | 改写生成一次；整理者认可效果 |
+| 018 | [真实人物 · 超写实编辑自拍](018-missdelulu9-realistic-portrait/README.md) | 真实人物 / 超写实 / 编辑自拍 / 竖版 | Eesha（@MissDelulu9） | 未测试；风格蒸馏，无效果图 |
+| 019 | [Eli Ha韩式 · CCD 直闪抓拍](019-fromsummerf-eli-ha-korean-ccd/README.md) | Eli Ha韩式 / CCD 直闪 / 韩系女友视角 / 妆面光 | Eli Ha（@FromSummerF） | 未测试；风格蒸馏，无效果图 |
 
 ## 风景与城市日常
 
@@ -48,4 +50,4 @@
 
 原帖链接补充状态详见各词条。
 
-编号按收录顺序递增。未测试的收藏应标注“未测试”，不与已验证案例混淆。
+编号按收录顺序递增。未测试的收藏应标注“未测试”，不与已验证案例混淆。整理者短标签只登记在[风格短标签对照](../notes/style-tags.md)。
