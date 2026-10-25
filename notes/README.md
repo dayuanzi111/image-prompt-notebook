@@ -2,6 +2,12 @@
 
 [返回首页](../README.md) · [风格短标签对照](style-tags.md)
 
+## 2026-10-25 · 自用提示词原样入档
+
+[词条 020 · 复古 DV 继母裙少女肖像](../entries/020-vintage-dv-stepmother-portrait/README.md)保存整理者自用的一段中文，正文未改写。它指向 GPT Image 2.5，但本项目还没有提交，也没有参考图和效果图。原文里的「生成了一张」只是提示词中的句子。
+
+这条不进短标签对照，也不并入 018、019 的创作者蒸馏。
+
 ## 2026-10-24 · 创作者短标签与未测试蒸馏
 
 「真实人物」和「Eli Ha韩式」收进[风格短标签对照](style-tags.md)，并分别写成[词条 018](../entries/018-missdelulu9-realistic-portrait/README.md)、[词条 019](../entries/019-fromsummerf-eli-ha-korean-ccd/README.md)。两则都是从公开帖整理的写法，授权未确认。本项目没有生成图片，效果图一节写的是待生成。

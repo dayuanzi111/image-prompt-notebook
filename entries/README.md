@@ -34,6 +34,7 @@
 | 014 | [男友衬衫 · iPhone 失败四连拍](014-oversized-shirt-phone-burst/README.md) | Oversized / 居家随拍 / 四连拍 / 抓拍瑕疵 | DeepBlue深蓝（@DeepBlueX0） | 改写生成一次；整理者认可效果 |
 | 018 | [真实人物 · 超写实编辑自拍](018-missdelulu9-realistic-portrait/README.md) | 真实人物 / 超写实 / 编辑自拍 / 竖版 | Eesha（@MissDelulu9） | 未测试；风格蒸馏，无效果图 |
 | 019 | [Eli Ha韩式 · CCD 直闪抓拍](019-fromsummerf-eli-ha-korean-ccd/README.md) | Eli Ha韩式 / CCD 直闪 / 韩系女友视角 / 妆面光 | Eli Ha（@FromSummerF） | 未测试；风格蒸馏，无效果图 |
+| 020 | [复古 DV 继母裙少女肖像](020-vintage-dv-stepmother-portrait/README.md) | 复古 DV / 室内棚拍 / 侧脸回眸 | 整理者自用 | 未测试；原文照录，无效果图 |
 
 ## 风景与城市日常
 

@@ -14,7 +14,7 @@
 | --- | --- |
 | 海报与平面设计 | [浏览本类词条](entries/README.md#海报与平面设计)：古诗词、等高线地形与细线设色模板 |
 | 插画与人物绘画 | [浏览本类词条](entries/README.md#插画与人物绘画)：木刻、蜡笔、连环画、重彩等 |
-| 人物摄影 | [浏览本类词条](entries/README.md#人物摄影)：眼神互动、手机连拍、CCD 人像、超写实自拍与韩系直闪等 |
+| 人物摄影 | [浏览本类词条](entries/README.md#人物摄影)：眼神互动、手机连拍、CCD 人像、超写实自拍、韩系直闪与复古 DV 等 |
 | 风景与城市日常 | [004 · 生活中未曾注意的美](entries/004-unnoticed-everyday-beauty/README.md) / [006 · 百年后的地标](entries/006-landmarks-after-humans/README.md) |
 | 产品与商业视觉 | [007 · 产品包装转译成衣](entries/007-packaging-fashion/README.md) |
 
@@ -182,6 +182,14 @@
 
 风格来源：**X 作者 [Eli Ha（@FromSummerF）](https://x.com/FromSummerF)**，账号由整理者提供，主页未独立核验。授权未确认。
 
+### [020 · 复古 DV 继母裙少女肖像](entries/020-vintage-dv-stepmother-portrait/README.md)
+
+整理者自用的中文提示词，原样保存。指向 GPT Image 2.5，本项目尚未生成。不并入 018、019。
+
+`复古DV` `室内棚拍` `侧脸回眸` · **未测试 / 无效果图**
+
+提示词来源：整理者自用，无原帖。
+
 ## 风景与城市日常
 
 <a href="entries/004-unnoticed-everyday-beauty/README.md"><img src="entries/004-unnoticed-everyday-beauty/images/result.png" width="280" alt="生活中未曾注意的美：雨后城市砖缝小草与叶尖水滴" /></a>
@@ -230,6 +238,7 @@
 
 | 日期 | 更新 |
 | --- | --- |
+| 2026-10-25 | 收录整理者自用的复古 DV 继母裙肖像提示词（020），归人物摄影；原文照录，状态未测试，无效果图。 |
 | 2026-10-24 | 增加风格短标签对照；收录「真实人物」与「Eli Ha韩式」两则人物摄影蒸馏（018、019），状态未测试，无效果图。 |
 | 2026-10-13 | 保存嫦娥工笔寓意插画及抚兔示例，归插画类，作者待补；古诗词原始模板与配色用法已收录于016。 |
 | 2026-10-13 | 保存Larus Canus的古诗词细线设色原始模板，附乱花浅草示例、配色与插画用法。 |
