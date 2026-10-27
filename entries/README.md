@@ -32,6 +32,15 @@
 | 008 | [手机坠落九连拍](008-falling-phone-burst/README.md) | 手机POV / 九宫格 / 连续动作 | DeepBlue深蓝（@DeepBlueX0） | 最终女高中生版已编辑生成 |
 | 013 | [韩系自然人像 · CCD 彩色柔焦](013-korean-ccd-portrait/README.md) | 韩系人像 / 自然瑕疵 / 狐系眼神 / 夜景 | 尘林 Spark | 原文未直接测试；改写生成一张 |
 | 014 | [男友衬衫 · iPhone 失败四连拍](014-oversized-shirt-phone-burst/README.md) | Oversized / 居家随拍 / 四连拍 / 抓拍瑕疵 | DeepBlue深蓝（@DeepBlueX0） | 改写生成一次；整理者认可效果 |
+| 018 | [真实人物 · 超写实编辑自拍](018-missdelulu9-realistic-portrait/README.md) | 真实人物 / 超写实 / 编辑自拍 / 竖版 | Eesha（@MissDelulu9） | 未测试；风格蒸馏，无效果图 |
+| 019 | [Eli Ha韩式 · CCD 直闪抓拍](019-fromsummerf-eli-ha-korean-ccd/README.md) | Eli Ha韩式 / CCD 直闪 / 韩系女友视角 / 妆面光 | Eli Ha（@FromSummerF） | 未测试；风格蒸馏，无效果图 |
+| 020 | [复古 DV 继母裙少女肖像](020-vintage-dv-stepmother-portrait/README.md) | 复古 DV / 室内棚拍 / 侧脸回眸 | 整理者自用 | 未测试；原文照录，无效果图 |
+| 021 | [象牙白纱 · 古典电影肖像](021-ivory-veil-classical-portrait/README.md) | 梦老湿古典 / 象牙白纱 / 伦勃朗光 / 85mm | 梦老湿 Dream AI（@jackzhang123vip） | 未测试；原文照录，无效果图 |
+| 022 | [SI写实 · 台灯侧睡近景](022-si-studio-sleep-portrait/README.md) | SI写实 / 暖光夜景 / 浅景深 | SI-Studio（@xyue13） | 未测试；原文照录，无效果图 |
+| 023 | [SI写实 · 公开提示词合集](023-si-studio-realistic-collection/README.md) | SI写实 / 生活抓拍 / 多格拼图 | SI-Studio（@xyue13） | 未测试；27 条原文照录 |
+| 024 | [Leo电影感 · 双手拢发电影肖像](024-listudio-hair-gather-portrait/README.md) | Leo电影感 / 方向光 / 2:3 | leolee（@listudio） | 未测试；原文照录 |
+| 025 | [Leo电影感 · 高赞提示词合集](025-listudio-cinematic-collection/README.md) | Leo电影感 / 电影肖像 | leolee（@listudio） | 未测试；6 条原文照录 |
+| 026 | [Cyber日系 · 淡粉针织近景](026-cybertotal-pale-pink-knit/README.md) | Cyber日系 / 窗光 / 3:4 极近接 | Prompt アトリエ（@CyberTotal2026） | 未测试；原文照录 |
 
 ## 风景与城市日常
 
@@ -48,4 +57,4 @@
 
 原帖链接补充状态详见各词条。
 
-编号按收录顺序递增。未测试的收藏应标注“未测试”，不与已验证案例混淆。
+编号按收录顺序递增。未测试的收藏应标注“未测试”，不与已验证案例混淆。整理者短标签只登记在[风格短标签对照](../notes/style-tags.md)。
