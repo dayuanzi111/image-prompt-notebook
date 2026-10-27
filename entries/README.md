@@ -40,6 +40,7 @@
 | 023 | [SI写实 · 公开提示词合集](023-si-studio-realistic-collection/README.md) | SI写实 / 生活抓拍 / 多格拼图 | SI-Studio（@xyue13） | 未测试；27 条原文照录 |
 | 024 | [Leo电影感 · 双手拢发电影肖像](024-listudio-hair-gather-portrait/README.md) | Leo电影感 / 方向光 / 2:3 | leolee（@listudio） | 未测试；原文照录 |
 | 025 | [Leo电影感 · 高赞提示词合集](025-listudio-cinematic-collection/README.md) | Leo电影感 / 电影肖像 | leolee（@listudio） | 未测试；6 条原文照录 |
+| 026 | [Cyber日系 · 淡粉针织近景](026-cybertotal-pale-pink-knit/README.md) | Cyber日系 / 窗光 / 3:4 极近接 | Prompt アトリエ（@CyberTotal2026） | 未测试；原文照录 |
 
 ## 风景与城市日常
 

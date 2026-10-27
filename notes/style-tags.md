@@ -15,8 +15,9 @@
 | 梦老湿古典 | [梦老湿 Dream AI（@jackzhang123vip）](https://x.com/jackzhang123vip) | 古典电影时尚肖像：深黑背景、象牙白纱与丝绸、伦勃朗柔侧光、85mm | [021 · 象牙白纱](../entries/021-ivory-veil-classical-portrait/README.md) |
 | SI写实 | [SI-Studio（@xyue13）](https://x.com/xyue13) | 中文照片级写实抓拍：东亚女性生活/职场场景，分「光线/环境/风格」段，多格拼图，8k | [022](../entries/022-si-studio-sleep-portrait/README.md) · [023 合集](../entries/023-si-studio-realistic-collection/README.md) |
 | Leo电影感 | [leolee（@listudio）](https://x.com/listudio) | 英文长段电影肖像：编号构图事实、方向光与深阴影、成年虚构人物声明 | [024](../entries/024-listudio-hair-gather-portrait/README.md) · [025 合集](../entries/025-listudio-cinematic-collection/README.md) |
+| Cyber日系 | [Prompt アトリエ（@CyberTotal2026）](https://x.com/CyberTotal2026) | 日文分段结构化提示词：主題/主体/人物・表情/服装/背景・光/構図/質感，淡粉白低反差窗光 | [026](../entries/026-cybertotal-pale-pink-knit/README.md) |
 
-目前上表五条，彼此分开。「真实人物」和「Eli Ha韩式」是风格蒸馏；「梦老湿古典」的词条按提供文本原样保存。授权未确认，都还没有效果图。
+目前上表六条，彼此分开。「真实人物」和「Eli Ha韩式」是风格蒸馏；「梦老湿古典」的词条按提供文本原样保存。授权未确认，都还没有效果图。
 
 ## 怎么增补
 
