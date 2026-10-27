@@ -12,8 +12,9 @@
 | --- | --- | --- | --- |
 | 真实人物 | [Eesha（@MissDelulu9）](https://x.com/MissDelulu9) | 英文超写实编辑自拍，光位和构图写得密，句末压住塑料感与文字 | [018 · 超写实编辑自拍](../entries/018-missdelulu9-realistic-portrait/README.md) |
 | Eli Ha韩式 | [Eli Ha（@FromSummerF）](https://x.com/FromSummerF) | 中文 CCD 直闪、韩系女友视角，妆面高光窄，负向词写死 | [019 · CCD 直闪抓拍](../entries/019-fromsummerf-eli-ha-korean-ccd/README.md) |
+| 梦老湿古典 | [梦老湿 Dream AI（@jackzhang123vip）](https://x.com/jackzhang123vip) | 古典电影时尚肖像：深黑背景、象牙白纱与丝绸、伦勃朗柔侧光、85mm | [021 · 象牙白纱](../entries/021-ivory-veil-classical-portrait/README.md) |
 
-目前只有上表两条。两条都是风格蒸馏，状态为未测试，词条里没有效果图。
+目前上表三条，彼此分开。「真实人物」和「Eli Ha韩式」是风格蒸馏；「梦老湿古典」的词条按提供文本原样保存。授权未确认，都还没有效果图。
 
 ## 怎么增补
 
