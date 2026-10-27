@@ -66,3 +66,7 @@
 ## 更正与联系
 
 如来源有误或内容需要撤下，请通过 [Issue](https://github.com/dayuanzi111/image-prompt-notebook/issues) 提供词条编号和相关原帖链接。
+
+词条022、023的提示词来自 **X 作者 [SI-Studio（@xyue13）](https://x.com/xyue13)**，各原帖链接见词条，正文经 X 公开接口读取后原样保存。短标签「SI写实」。授权未确认，无效果图。
+
+词条024、025的提示词来自 **X 作者 [leolee（@listudio）](https://x.com/listudio)**，各原帖链接与读取时点赞数见词条，正文原样保存。短标签「Leo电影感」。授权未确认，无效果图。

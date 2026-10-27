@@ -36,6 +36,10 @@
 | 019 | [Eli Ha韩式 · CCD 直闪抓拍](019-fromsummerf-eli-ha-korean-ccd/README.md) | Eli Ha韩式 / CCD 直闪 / 韩系女友视角 / 妆面光 | Eli Ha（@FromSummerF） | 未测试；风格蒸馏，无效果图 |
 | 020 | [复古 DV 继母裙少女肖像](020-vintage-dv-stepmother-portrait/README.md) | 复古 DV / 室内棚拍 / 侧脸回眸 | 整理者自用 | 未测试；原文照录，无效果图 |
 | 021 | [象牙白纱 · 古典电影肖像](021-ivory-veil-classical-portrait/README.md) | 梦老湿古典 / 象牙白纱 / 伦勃朗光 / 85mm | 梦老湿 Dream AI（@jackzhang123vip） | 未测试；原文照录，无效果图 |
+| 022 | [SI写实 · 台灯侧睡近景](022-si-studio-sleep-portrait/README.md) | SI写实 / 暖光夜景 / 浅景深 | SI-Studio（@xyue13） | 未测试；原文照录，无效果图 |
+| 023 | [SI写实 · 公开提示词合集](023-si-studio-realistic-collection/README.md) | SI写实 / 生活抓拍 / 多格拼图 | SI-Studio（@xyue13） | 未测试；27 条原文照录 |
+| 024 | [Leo电影感 · 双手拢发电影肖像](024-listudio-hair-gather-portrait/README.md) | Leo电影感 / 方向光 / 2:3 | leolee（@listudio） | 未测试；原文照录 |
+| 025 | [Leo电影感 · 高赞提示词合集](025-listudio-cinematic-collection/README.md) | Leo电影感 / 电影肖像 | leolee（@listudio） | 未测试；6 条原文照录 |
 
 ## 风景与城市日常
 
