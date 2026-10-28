@@ -31,3 +31,4 @@
 
 - 授权未确认。
 - 原文照录，未改写。
+- 同账号另外九则在[027](../027-cybertotal-ribbon-stitch-makeup/README.md)–[035](../035-cybertotal-coconut-shade/README.md)。楼梯白针织（031）也不是这一条淡粉针织近景。
