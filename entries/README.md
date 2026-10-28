@@ -54,6 +54,7 @@
 | 037 | [湿润男性 · 电影特写](037-fromsummerf-wet-male-closeup/README.md) | 电影特写 / 湿润皮肤 / 不归入 Eli Ha韩式 | Eli Ha（@FromSummerF） | 未测试；原文照录；与 019 分开 |
 | 038 | [古寺跪拜祈福全身](038-temple-kneel-prayer-portrait/README.md) | 古寺祈福 / 全身跪姿 / 晴日高调 | 整理者自用 | 未测试；原文照录，无效果图 |
 | 039 | [夏日窗边微汗手机抓拍](039-summer-window-sweat-phone-snap/README.md) | 手机抓拍 / 夏日微汗 / 窗边 | 整理者自用 | 未测试；原文照录，无效果图 |
+| 040 | [Y2K 街头时装闪光抓拍](040-y2k-street-fashion-flash-snap/README.md) | Y2K闪光 / 街头时装 / 阈限街景 | 整理者自用 | 未测试；原文照录，无效果图 |
 
 ## 风景与城市日常
 
