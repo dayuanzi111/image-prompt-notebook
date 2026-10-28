@@ -52,6 +52,8 @@
 | 035 | [Cyber日系 · 树荫椰子](035-cybertotal-coconut-shade/README.md) | Cyber日系 / 树荫椰子 / 3:4 | Prompt アトリエ（@CyberTotal2026） | 未测试；原文照录 |
 | 036 | [杏橘鲜花 · 古典时装肖像](036-apricot-orange-flower-portrait/README.md) | 梦老湿古典 / 杏橘鲜花 / 窗光 / 85mm | 梦老湿 Dream AI（@jackzhang123vip） | 未测试；原文照录，无效果图；与 021 同标签 |
 | 037 | [湿润男性 · 电影特写](037-fromsummerf-wet-male-closeup/README.md) | 电影特写 / 湿润皮肤 / 不归入 Eli Ha韩式 | Eli Ha（@FromSummerF） | 未测试；原文照录；与 019 分开 |
+| 038 | [古寺跪拜祈福全身](038-temple-kneel-prayer-portrait/README.md) | 古寺祈福 / 全身跪姿 / 晴日高调 | 整理者自用 | 未测试；原文照录，无效果图 |
+| 039 | [夏日窗边微汗手机抓拍](039-summer-window-sweat-phone-snap/README.md) | 手机抓拍 / 夏日微汗 / 窗边 | 整理者自用 | 未测试；原文照录，无效果图 |
 
 ## 风景与城市日常
 
