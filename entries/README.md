@@ -32,8 +32,8 @@
 | 008 | [手机坠落九连拍](008-falling-phone-burst/README.md) | 手机POV / 九宫格 / 连续动作 | DeepBlue深蓝（@DeepBlueX0） | 最终女高中生版已编辑生成 |
 | 013 | [韩系自然人像 · CCD 彩色柔焦](013-korean-ccd-portrait/README.md) | 韩系人像 / 自然瑕疵 / 狐系眼神 / 夜景 | 尘林 Spark | 原文未直接测试；改写生成一张 |
 | 014 | [男友衬衫 · iPhone 失败四连拍](014-oversized-shirt-phone-burst/README.md) | Oversized / 居家随拍 / 四连拍 / 抓拍瑕疵 | DeepBlue深蓝（@DeepBlueX0） | 改写生成一次；整理者认可效果 |
-| 018 | [真实人物 · 超写实编辑自拍](018-missdelulu9-realistic-portrait/README.md) | 真实人物 / 超写实 / 编辑自拍 / 竖版 | Eesha（@MissDelulu9） | 未测试；风格蒸馏，无效果图 |
-| 019 | [Eli Ha韩式 · CCD 直闪抓拍](019-fromsummerf-eli-ha-korean-ccd/README.md) | Eli Ha韩式 / CCD 直闪 / 韩系女友视角 / 妆面光 | Eli Ha（@FromSummerF） | 未测试；风格蒸馏，无效果图 |
+| 018 | [真实人物 · 超写实编辑自拍](018-missdelulu9-realistic-portrait/README.md) | 真实人物 / 超写实 / 编辑自拍 / 竖版 | Eesha（@MissDelulu9） | 未测试；蒸馏加一则站台街拍原文，无效果图 |
+| 019 | [Eli Ha韩式 · CCD 直闪抓拍](019-fromsummerf-eli-ha-korean-ccd/README.md) | Eli Ha韩式 / CCD 直闪 / 韩系女友视角 / 妆面光 | Eli Ha（@FromSummerF） | 未测试；蒸馏加极低机位原文，无效果图 |
 | 020 | [复古 DV 继母裙少女肖像](020-vintage-dv-stepmother-portrait/README.md) | 复古 DV / 室内棚拍 / 侧脸回眸 | 整理者自用 | 未测试；原文照录，无效果图 |
 | 021 | [象牙白纱 · 古典电影肖像](021-ivory-veil-classical-portrait/README.md) | 梦老湿古典 / 象牙白纱 / 伦勃朗光 / 85mm | 梦老湿 Dream AI（@jackzhang123vip） | 未测试；原文照录，无效果图 |
 | 022 | [SI写实 · 台灯侧睡近景](022-si-studio-sleep-portrait/README.md) | SI写实 / 暖光夜景 / 浅景深 | SI-Studio（@xyue13） | 未测试；原文照录，无效果图 |
@@ -41,6 +41,17 @@
 | 024 | [Leo电影感 · 双手拢发电影肖像](024-listudio-hair-gather-portrait/README.md) | Leo电影感 / 方向光 / 2:3 | leolee（@listudio） | 未测试；原文照录 |
 | 025 | [Leo电影感 · 高赞提示词合集](025-listudio-cinematic-collection/README.md) | Leo电影感 / 电影肖像 | leolee（@listudio） | 未测试；6 条原文照录 |
 | 026 | [Cyber日系 · 淡粉针织近景](026-cybertotal-pale-pink-knit/README.md) | Cyber日系 / 窗光 / 3:4 极近接 | Prompt アトリエ（@CyberTotal2026） | 未测试；原文照录 |
+| 027 | [Cyber日系 · 丝带缝线妆](027-cybertotal-ribbon-stitch-makeup/README.md) | Cyber日系 / 丝带缝线妆 / 3:4 | Prompt アトリエ（@CyberTotal2026） | 未测试；原文照录 |
+| 028 | [Cyber日系 · 秋色光肥皂泡](028-cybertotal-autumn-light-bubbles/README.md) | Cyber日系 / 秋色肥皂泡 / 2:3 | Prompt アトリエ（@CyberTotal2026） | 未测试；原文照录 |
+| 029 | [Cyber日系 · 水边与马](029-cybertotal-waterside-horse/README.md) | Cyber日系 / 水边骑马 / 3:4 逆光 | Prompt アトリエ（@CyberTotal2026） | 未测试；原文照录 |
+| 030 | [Cyber日系 · 白角霓虹夜](030-cybertotal-white-horn-neon/README.md) | Cyber日系 / 白角霓虹 / 3:4 | Prompt アトリエ（@CyberTotal2026） | 未测试；原文照录 |
+| 031 | [Cyber日系 · 楼梯白针织](031-cybertotal-stair-white-knit/README.md) | Cyber日系 / 楼梯白针织 / 3:4 俯瞰 | Prompt アトリエ（@CyberTotal2026） | 未测试；原文照录；不是 026 |
+| 032 | [Cyber日系 · 闪光羽镜前](032-cybertotal-glitter-feather-mirror/README.md) | Cyber日系 / 闪光羽 / 3:4 | Prompt アトリエ（@CyberTotal2026） | 未测试；原文照录 |
+| 033 | [Cyber日系 · 木漏日脸颊](033-cybertotal-dappled-sun-cheek/README.md) | Cyber日系 / 木漏日 / 3:4 近景 | Prompt アトリエ（@CyberTotal2026） | 未测试；原文照录 |
+| 034 | [Cyber日系 · 休息鼓脸](034-cybertotal-puffed-cheek-rest/README.md) | Cyber日系 / 休息鼓脸 / 3:4 | Prompt アトリエ（@CyberTotal2026） | 未测试；原文照录 |
+| 035 | [Cyber日系 · 树荫椰子](035-cybertotal-coconut-shade/README.md) | Cyber日系 / 树荫椰子 / 3:4 | Prompt アトリエ（@CyberTotal2026） | 未测试；原文照录 |
+| 036 | [杏橘鲜花 · 古典时装肖像](036-apricot-orange-flower-portrait/README.md) | 梦老湿古典 / 杏橘鲜花 / 窗光 / 85mm | 梦老湿 Dream AI（@jackzhang123vip） | 未测试；原文照录，无效果图；与 021 同标签 |
+| 037 | [湿润男性 · 电影特写](037-fromsummerf-wet-male-closeup/README.md) | 电影特写 / 湿润皮肤 / 不归入 Eli Ha韩式 | Eli Ha（@FromSummerF） | 未测试；原文照录；与 019 分开 |
 
 ## 风景与城市日常
 

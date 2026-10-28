@@ -14,14 +14,14 @@
 | 来源类型 | 第三方公开帖的风格蒸馏；母版与示例为本项目整理 |
 | 提示词作者 | **Eesha**，X 账号 **@MissDelulu9**；显示名与账号由整理者提供 |
 | 作者主页 | [x.com/MissDelulu9](https://x.com/MissDelulu9)。按提供的账号记录，未独立核验 |
-| 原帖链接 | 未逐条收录，不编造状态链接。整理笔记指向 2026 年 10 月前后的 GPT Image 2.5 拼贴与自拍向帖文 |
-| 收录日期 | 2026-10-24 |
+| 原帖链接 | 地铁站台街拍：[status/2114965450425868519](https://x.com/MissDelulu9/status/2114965450425868519)。雨夜便利店示例仍无逐帖地址，不编造链接 |
+| 收录日期 | 2026-10-24 建条；2026-10-28 补地铁站台街拍原文 |
 | 授权状态 | 未确认。署名和主页链接不代表已取得转载或使用许可 |
 | 示例图归属 | 无。本词条不转载他人配图，也尚未生成本项目效果图 |
 | 测试工具与模型 | 蒸馏笔记指向 GPT Image 2.5；本项目未提交，具体型号未在此核验 |
 | 测试日期与次数 | 未测试 |
 | 状态 | 未测试 |
-| 画幅 | 笔记中的常用目标为竖版 9:16，也出现 3:4 |
+| 画幅 | 笔记中的常用目标为竖版 9:16，也出现 3:4。地铁站台帖写 vertical phone snapshot，未写具体比例 |
 | 参考图片 | 身份锁定一类需要自拍参考图。本项目未附参考图，也未测试 |
 
 画面以面孔、光和随拍构图为主，归人物摄影。
@@ -49,6 +49,26 @@ No text, no watermark, no logos, no plastic skin, no excessive retouching, no di
 ```
 
 相对后面的母版，这一则把镜头写成 35mm 等效，并在句末加上 “no AI look”。iPhone、35mm 和便利店夜景是外观描述，不表示真实拍摄。
+
+### 地铁站台街拍 · 原文照录
+
+2026-10-28 补入。下面是原帖正文，供以后原样提交。雨夜便利店那一则仍是整理者填写的蒸馏，两则分开保存。授权未确认。配图未转载。
+
+来源：[status/2114965450425868519](https://x.com/MissDelulu9/status/2114965450425868519)（Eesha @MissDelulu9，2026-10-27 14:20 北京时间发布，读取时点赞 338）。帖文首行写明 GPT Image 2.5 on ChatGPT。
+
+```text
+GPT Image 2.5 on ChatGPT 
+
+Prompt:
+
+Realistic vertical phone street snapshot of a young woman on an urban train platform, slightly right of center, as a silver train with a green stripe rushes behind in horizontal motion blur. Low angle from waist height, close half-body to mid-thigh, handheld and imperfect. 
+
+Long deep-black hair sweeps left in station wind. Oversized brown gradient sunglasses hide her eyes; head tilted upward, lips relaxed, cool distant expression. Small oval face, soft jawline, clean East Asian Y2K makeup, nude-pink lips. Warm-white cropped halter tank, low neckline, fitted ribbed cotton, subtle wrinkles, hem above waist. Low-rise loose vintage gray-brown jeans, layered gold necklaces, black quilted chain bag.
+
+Warm-beige skin with natural texture on shoulders, collarbones, arms, waist and abdomen. Cool fluorescent station light, metallic reflections, yellow tactile paving, concrete floor, blurred passengers in train windows. Real mobile noise, slight wide-angle feel.
+```
+
+帖文写 “young woman”，此处不改字。低机位从腰高、半身收到大腿中部、站台列车的横向动态模糊，都按上面的句子保留。
 
 ## 我的理解
 
@@ -78,6 +98,8 @@ No text, no watermark, no logos, no plastic skin, no excessive retouching, no di
 - 光线或材质：先写光的方向、软硬和颜色，再写毛孔和轻微颗粒。颗粒用来加照片感，毛孔仍要单独保留。
 - 关键约束：句末负向词挡住文字、水印、塑料皮肤、过度磨皮和多余手指。负向词负责排除，风格仍靠前面的光和镜头建立。
 
+2026-10-28 收录的地铁站台帖是原文，不是从这张槽位表推出来的。它把低机位、手机街拍、站台风和列车动态模糊写在同一段英文里。尚未提交，不能当作母版已经验证。
+
 以上是本项目的阅读，不是原作者的解释。
 
 ## 实际提交版本
@@ -88,7 +110,7 @@ No text, no watermark, no logos, no plastic skin, no excessive retouching, no di
 
 | 版本 | 修改 | 观察 | 下一步 |
 | --- | --- | --- | --- |
-| — | 未提交 | 无图片 | 先提交雨夜示例或母版的一次填写，保存实际文本后再记观察 |
+| — | 未提交 | 无图片 | 雨夜示例、母版填写、地铁站台原文分开提交，保存实际文本后再记观察 |
 
 ## 可复用模板
 
@@ -102,12 +124,12 @@ Ultra-realistic cinematic close-up portrait of an adult East Asian woman with [h
 No text, no watermark, no logos, no plastic skin, no excessive retouching, no distorted hands, no extra fingers.
 ```
 
-主体写明 adult。改镜头、画幅或光时，保持人物年龄和题材不动，下一轮才看得出是哪一层在起作用。雨夜便利店的完整填写在「原始提示词」，是这个母版的一则示例。
+主体写明 adult。改镜头、画幅或光时，保持人物年龄和题材不动，下一轮才看得出是哪一层在起作用。雨夜便利店的完整填写在「原始提示词」，是这个母版的一则示例。地铁站台街拍是另一则，按原帖提交，不先改写成母版。
 
 ## 使用边界
 
 - 授权未确认。本页文字和将来的效果图都要分开署名，不能标成 Eesha 的作品，也不能当作已获许可的素材。
-- 主页链接只指向账号。没有原帖地址时，不补造状态链接。
+- 主页链接只指向账号。地铁站台一则已有原帖地址，正文是摘录。雨夜便利店示例仍然没有逐帖地址，不补造链接。
 - 人物按成年填写。参考图若用于锁身份，需自行确认有权使用，并在词条里分开记录。
 - “超写实”“iPhone”“G7X”描述的是画面观感。生成图不是照片，也不能用来证明相机或传感器。
 - 六格拼贴、鱼眼和身份锁定都还没有在本项目测试。一次只改一个槽位。

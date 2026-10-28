@@ -2,6 +2,12 @@
 
 [返回首页](../README.md) · [风格短标签对照](style-tags.md)
 
+## 2026-10-28 · 续收四路公开帖
+
+[027–035](../entries/README.md#人物摄影) 是 @CyberTotal2026 的九条日文【画像生成プロンプト】，全文照录，短标签仍是「Cyber日系」。其中没有 026 那条淡粉针织。
+
+[018](../entries/018-missdelulu9-realistic-portrait/README.md) 补了一则地铁站台街拍，按英文原帖保存。[019](../entries/019-fromsummerf-eli-ha-korean-ccd/README.md) 补了一则极低机位自拍原文；帖文没有写直闪。[036](../entries/036-apricot-orange-flower-portrait/README.md) 与 021 同属「梦老湿古典」，场景是杏橘鲜花和窗光。[037](../entries/037-fromsummerf-wet-male-closeup/README.md) 是同账号的湿润男性电影特写，不归入「Eli Ha韩式」，也没有新短标签。授权都未确认，都没有效果图。
+
 ## 2026-10-27 · 梦老湿古典
 
 短标签「梦老湿古典」记在[风格短标签对照](style-tags.md)，词条是[021 · 象牙白纱](../entries/021-ivory-veil-classical-portrait/README.md)。正文按提供的中文原样保存，原帖已记下，授权未确认。光是左上 45° 的伦勃朗柔侧光，背景保持深黑；画幅是 9:16 竖幅半身，镜头参数写到 85mm、f/2.2–2.8、ISO 100。指向 GPT Image 2.5，还没有提交，也没有效果图。这一路不并入 018、019 或 020。

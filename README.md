@@ -168,15 +168,15 @@
 
 ### [018 · 真实人物 · 超写实编辑自拍](entries/018-missdelulu9-realistic-portrait/README.md)
 
-短标签 **真实人物**。保存英文超写实母版，以及一则雨夜便利店填写示例。配方从公开帖蒸馏，本项目尚未生成。
+短标签 **真实人物**。保存英文超写实母版、一则雨夜便利店填写示例，以及一则地铁站台街拍原文。本项目尚未生成。
 
 `超写实` `编辑自拍` `竖版` · **未测试 / 无效果图**
 
-风格来源：**X 作者 [Eesha（@MissDelulu9）](https://x.com/MissDelulu9)**，账号由整理者提供，主页未独立核验。蒸馏文本授权未确认。
+风格来源：**X 作者 [Eesha（@MissDelulu9）](https://x.com/MissDelulu9)**。雨夜示例仍是蒸馏；地铁站台一则按原帖照录。授权未确认。
 
 ### [019 · Eli Ha韩式 · CCD 直闪抓拍](entries/019-fromsummerf-eli-ha-korean-ccd/README.md)
 
-短标签 **Eli Ha韩式**。保存中文直闪母版，以及车厢夜景与贴脸方图两则蒸馏。尚未生成。
+短标签 **Eli Ha韩式**。保存中文直闪母版、车厢夜景与贴脸方图等蒸馏，以及一则极低机位自拍原文。湿润男性电影特写另见 [037](entries/037-fromsummerf-wet-male-closeup/README.md)，不使用本标签。尚未生成。
 
 `CCD直闪` `韩系女友视角` `妆面光` · **未测试 / 无效果图**
 
@@ -196,7 +196,31 @@
 
 `古典电影` `象牙白纱` `85mm` · **未测试 / 无效果图**
 
-提示词来源：**X 作者 [梦老湿 Dream AI（@jackzhang123vip）](https://x.com/jackzhang123vip)**，[原帖](https://x.com/jackzhang123vip/status/2114694643510395284)由整理者提供。授权未确认。
+提示词来源：**X 作者 [梦老湿 Dream AI（@jackzhang123vip）](https://x.com/jackzhang123vip)**，[原帖](https://x.com/jackzhang123vip/status/2114694643510395284)由整理者提供。授权未确认。同一短标签的杏橘鲜花见[036](entries/036-apricot-orange-flower-portrait/README.md)。
+
+### [027–035 · Cyber日系](entries/README.md#人物摄影)
+
+短标签 **Cyber日系**。九条日文【画像生成プロンプト】原文照录，接在[026 · 淡粉针织](entries/026-cybertotal-pale-pink-knit/README.md)之后。九条都不是 026 那一帖。尚未生成。
+
+`Cyber日系` · **未测试 / 无效果图**
+
+提示词来源：**X 作者 [Prompt アトリエ（@CyberTotal2026）](https://x.com/CyberTotal2026)**。授权未确认。
+
+### [036 · 杏橘鲜花 · 古典时装肖像](entries/036-apricot-orange-flower-portrait/README.md)
+
+短标签 **梦老湿古典**。与 021 同标签：这一则是杏橘鲜花、灰褐哑光墙和窗光，85mm、9:16。原文照录，尚未生成。
+
+`杏橘鲜花` `窗光` `85mm` · **未测试 / 无效果图**
+
+提示词来源：**X 作者 [梦老湿 Dream AI（@jackzhang123vip）](https://x.com/jackzhang123vip)**，[原帖](https://x.com/jackzhang123vip/status/2114884788477681864)。授权未确认。
+
+### [037 · 湿润男性 · 电影特写](entries/037-fromsummerf-wet-male-closeup/README.md)
+
+湿皮肤、单眼与暖橙金色高光。原文照录。不归入「Eli Ha韩式」，也不新开短标签。尚未生成。
+
+`电影特写` `湿润皮肤` · **未测试 / 无效果图**
+
+提示词来源：**X 作者 [Eli Ha（@FromSummerF）](https://x.com/FromSummerF)**，[原帖](https://x.com/FromSummerF/status/2115242070868894012)。授权未确认。
 
 ## 风景与城市日常
 
@@ -246,6 +270,7 @@
 
 | 日期 | 更新 |
 | --- | --- |
+| 2026-10-28 | 收录 Cyber日系九则（027–035，原文照录，与 026 淡粉针织不是同一帖）；018 补地铁站台街拍原文；019 补极低机位自拍原文；036 为梦老湿古典的杏橘鲜花；037 为湿润男性电影特写，不归入 Eli Ha韩式。授权未确认，无效果图。 |
 | 2026-10-27 | 增加短标签「梦老湿古典」，收录象牙白纱古典电影肖像（021）；原文照录，授权未确认，无效果图。 |
 | 2026-10-27 | 增加短标签「SI写实」（@xyue13，022–023）与「Leo电影感」（@listudio，024–025）；原文照录，授权未确认，无效果图。 |
 | 2026-10-27 | 词条019补 Eli Ha 两则风格蒸馏（美术馆冷白日景、室内沙发直闪）及妆面纠偏笔记，附原帖链接；授权未确认，无新图。 |
