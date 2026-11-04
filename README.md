@@ -14,7 +14,7 @@
 | --- | --- |
 | 海报与平面设计 | [浏览本类词条](entries/README.md#海报与平面设计)：古诗词、等高线地形与细线设色模板 |
 | 插画与人物绘画 | [浏览本类词条](entries/README.md#插画与人物绘画)：木刻、蜡笔、连环画、重彩等 |
-| 人物摄影 | [浏览本类词条](entries/README.md#人物摄影)：眼神互动、手机连拍、CCD 人像、超写实自拍、韩系直闪、复古 DV 与古典肖像等 |
+| 人物摄影 | [浏览本类词条](entries/README.md#人物摄影)：眼神互动、手机连拍、CCD 人像、超写实自拍、韩系直闪、复古 DV、古典肖像与男友第一人称 POV 等 |
 | 风景与城市日常 | [004 · 生活中未曾注意的美](entries/004-unnoticed-everyday-beauty/README.md) / [006 · 百年后的地标](entries/006-landmarks-after-humans/README.md) |
 | 产品与商业视觉 | [007 · 产品包装转译成衣](entries/007-packaging-fashion/README.md) |
 
@@ -198,6 +198,14 @@
 
 提示词来源：**X 作者 [梦老湿 Dream AI（@jackzhang123vip）](https://x.com/jackzhang123vip)**，[原帖](https://x.com/jackzhang123vip/status/2114694643510395284)由整理者提供。授权未确认。
 
+### [043 · 韩系男友POV·壁咚指镜头（主动权反转）](entries/043-spark-chenlin-boyfriend-pov-wall-point/README.md)
+
+短标签 **Spark男友POV**（暂定，用户可改名）。韩系成熟女性、男友第一人称极近 POV：撑墙、食指指镜头，主动权反转。原文是变量模板，照录，尚未生成。不并入其他短标签。
+
+`男友POV` `壁咚指镜头` `变量模板` · **未测试 / 无效果图**
+
+提示词来源：**X 作者 [Spark（@spark_chenlin）](https://x.com/spark_chenlin)**。只记录主页，未提供原帖。授权未确认。
+
 ## 风景与城市日常
 
 <a href="entries/004-unnoticed-everyday-beauty/README.md"><img src="entries/004-unnoticed-everyday-beauty/images/result.png" width="280" alt="生活中未曾注意的美：雨后城市砖缝小草与叶尖水滴" /></a>
@@ -246,6 +254,7 @@
 
 | 日期 | 更新 |
 | --- | --- |
+| 2026-11-04 | 增加短标签「Spark男友POV」（暂定，用户可改名），收录韩系男友 POV 壁咚指镜头变量模板（043）。新创作者 @spark_chenlin，不并入其他短标签，也不并入词条 013。编号用 043，避开尚未合并的 027–042。原文照录，只链到主页，不编造原帖。授权未确认，无效果图。 |
 | 2026-10-27 | 增加短标签「梦老湿古典」，收录象牙白纱古典电影肖像（021）；原文照录，授权未确认，无效果图。 |
 | 2026-10-27 | 增加短标签「SI写实」（@xyue13，022–023）与「Leo电影感」（@listudio，024–025）；原文照录，授权未确认，无效果图。 |
 | 2026-10-27 | 词条019补 Eli Ha 两则风格蒸馏（美术馆冷白日景、室内沙发直闪）及妆面纠偏笔记，附原帖链接；授权未确认，无新图。 |

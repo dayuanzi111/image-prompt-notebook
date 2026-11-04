@@ -2,6 +2,10 @@
 
 [返回首页](../README.md) · [风格短标签对照](style-tags.md)
 
+## 2026-11-04 · Spark男友POV · 壁咚指镜头
+
+短标签「Spark男友POV」暂定，用户可改名。记在[风格短标签对照](style-tags.md)，词条是[043 · 韩系男友POV·壁咚指镜头（主动权反转）](../entries/043-spark-chenlin-boyfriend-pov-wall-point/README.md)。新创作者 @spark_chenlin，不并入其他短标签，也不并入词条 013。正文按提供的中文原样保存。原文自带场景、造型、神态三个可替换项，是变量模板。只记录主页 [x.com/spark_chenlin](https://x.com/spark_chenlin)，没有原帖地址。授权未确认。画幅 9:16，男友第一人称极近 POV：右手从画面左上方撑墙，左手从画面右下方用食指指向镜头，且不接触镜头。成像写的是 24mm手机广角和 CCD直闪。还没有提交，也没有效果图。
+
 ## 2026-10-27 · 梦老湿古典
 
 短标签「梦老湿古典」记在[风格短标签对照](style-tags.md)，词条是[021 · 象牙白纱](../entries/021-ivory-veil-classical-portrait/README.md)。正文按提供的中文原样保存，原帖已记下，授权未确认。光是左上 45° 的伦勃朗柔侧光，背景保持深黑；画幅是 9:16 竖幅半身，镜头参数写到 85mm、f/2.2–2.8、ISO 100。指向 GPT Image 2.5，还没有提交，也没有效果图。这一路不并入 018、019 或 020。
