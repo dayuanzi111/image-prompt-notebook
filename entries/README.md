@@ -41,6 +41,7 @@
 | 024 | [Leo电影感 · 双手拢发电影肖像](024-listudio-hair-gather-portrait/README.md) | Leo电影感 / 方向光 / 2:3 | leolee（@listudio） | 未测试；原文照录 |
 | 025 | [Leo电影感 · 高赞提示词合集](025-listudio-cinematic-collection/README.md) | Leo电影感 / 电影肖像 | leolee（@listudio） | 未测试；6 条原文照录 |
 | 026 | [Cyber日系 · 淡粉针织近景](026-cybertotal-pale-pink-knit/README.md) | Cyber日系 / 窗光 / 3:4 极近接 | Prompt アトリエ（@CyberTotal2026） | 未测试；原文照录 |
+| 041 | [夏日蓝天栏杆 · 低角度蕾丝过膝袜](041-summer-blue-sky-railing-low-angle/README.md) | 梦老湿古典 / 夏日蓝天 / 低角度广角 / 蕾丝过膝袜 | 梦老湿 Dream AI（@jackzhang123vip） | 未测试；用户提供全文照录，无效果图；与 021 同标签 |
 
 ## 风景与城市日常
 
