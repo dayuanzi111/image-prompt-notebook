@@ -198,6 +198,14 @@
 
 提示词来源：**X 作者 [梦老湿 Dream AI（@jackzhang123vip）](https://x.com/jackzhang123vip)**，[原帖](https://x.com/jackzhang123vip/status/2114694643510395284)由整理者提供。授权未确认。
 
+### [042 · 韩系CCD楼梯间美女](entries/042-fromsummerf-ccd-stairwell-portrait/README.md)
+
+短标签 **Eli Ha韩式**。与 019 同标签、正文分开：深夜楼梯间、机身直闪、冷调蓝灰的近景快照。原文照录，尚未生成。不覆盖 019。
+
+`CCD直闪` `楼梯间` `冷调蓝灰` · **未测试 / 无效果图**
+
+提示词来源：**X 作者 [Eli Ha（@FromSummerF）](https://x.com/FromSummerF)**。用户提供全文，未记原帖。授权未确认。
+
 ## 风景与城市日常
 
 <a href="entries/004-unnoticed-everyday-beauty/README.md"><img src="entries/004-unnoticed-everyday-beauty/images/result.png" width="280" alt="生活中未曾注意的美：雨后城市砖缝小草与叶尖水滴" /></a>
@@ -246,6 +254,7 @@
 
 | 日期 | 更新 |
 | --- | --- |
+| 2026-11-04 | 收录 Eli Ha韩式的韩系 CCD 楼梯间近景（042）；用户提供全文原样保存；与 019 的风格蒸馏分开，不覆盖 019。编号用 042，避开尚未合并的 027–041。授权未确认，无效果图，不编造原帖链接。 |
 | 2026-10-27 | 增加短标签「梦老湿古典」，收录象牙白纱古典电影肖像（021）；原文照录，授权未确认，无效果图。 |
 | 2026-10-27 | 增加短标签「SI写实」（@xyue13，022–023）与「Leo电影感」（@listudio，024–025）；原文照录，授权未确认，无效果图。 |
 | 2026-10-27 | 词条019补 Eli Ha 两则风格蒸馏（美术馆冷白日景、室内沙发直闪）及妆面纠偏笔记，附原帖链接；授权未确认，无新图。 |
