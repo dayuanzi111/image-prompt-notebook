@@ -41,6 +41,7 @@
 | 024 | [Leo电影感 · 双手拢发电影肖像](024-listudio-hair-gather-portrait/README.md) | Leo电影感 / 方向光 / 2:3 | leolee（@listudio） | 未测试；原文照录 |
 | 025 | [Leo电影感 · 高赞提示词合集](025-listudio-cinematic-collection/README.md) | Leo电影感 / 电影肖像 | leolee（@listudio） | 未测试；6 条原文照录 |
 | 026 | [Cyber日系 · 淡粉针织近景](026-cybertotal-pale-pink-knit/README.md) | Cyber日系 / 窗光 / 3:4 极近接 | Prompt アトリエ（@CyberTotal2026） | 未测试；原文照录 |
+| 042 | [韩系CCD楼梯间美女](042-fromsummerf-ccd-stairwell-portrait/README.md) | Eli Ha韩式 / CCD 直闪 / 深夜楼梯间 / 冷调蓝灰 | Eli Ha（@FromSummerF） | 未测试；用户提供全文照录，无效果图；与 019 同标签，不覆盖 019 |
 
 ## 风景与城市日常
 
