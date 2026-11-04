@@ -41,6 +41,7 @@
 | 024 | [Leo电影感 · 双手拢发电影肖像](024-listudio-hair-gather-portrait/README.md) | Leo电影感 / 方向光 / 2:3 | leolee（@listudio） | 未测试；原文照录 |
 | 025 | [Leo电影感 · 高赞提示词合集](025-listudio-cinematic-collection/README.md) | Leo电影感 / 电影肖像 | leolee（@listudio） | 未测试；6 条原文照录 |
 | 026 | [Cyber日系 · 淡粉针织近景](026-cybertotal-pale-pink-knit/README.md) | Cyber日系 / 窗光 / 3:4 极近接 | Prompt アトリエ（@CyberTotal2026） | 未测试；原文照录 |
+| 043 | [韩系男友POV·壁咚指镜头（主动权反转）](043-spark-chenlin-boyfriend-pov-wall-point/README.md) | Spark男友POV / 韩系·男友第一人称POV互动 / 壁咚指镜头 / 变量模板 | Spark（@spark_chenlin） | 未测试；原文照录，无效果图；新短标签，不并入其他标签 |
 
 ## 风景与城市日常
 
@@ -57,4 +58,4 @@
 
 原帖链接补充状态详见各词条。
 
-编号按收录顺序递增。未测试的收藏应标注“未测试”，不与已验证案例混淆。整理者短标签只登记在[风格短标签对照](../notes/style-tags.md)。
+编号按收录顺序递增。043 是主分支与未合并 PR 之后的下一个空号；027–042 在其他尚未合并的 PR 中。未测试的收藏应标注“未测试”，不与已验证案例混淆。整理者短标签只登记在[风格短标签对照](../notes/style-tags.md)。
